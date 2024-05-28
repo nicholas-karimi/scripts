@@ -106,3 +106,11 @@ Ensure that the directory has the appropriate permissions so that Supervisor can
 
 3. Restart Supervisor
    `sudo supervisorctl restart all`
+
+### Trouble installing postgres-pip?
+Has this error haunted you?
+>  ./psycopg/psycopg.h:36:10: fatal error: libpq-fe.h: No such file or directory?
+
+Just install the required headers on your server/environment
+
+`sudo apt-get install python3-dev libpq-dev`
