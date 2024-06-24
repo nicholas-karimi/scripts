@@ -114,3 +114,17 @@ Has this error haunted you?
 Just install the required headers on your server/environment
 
 `sudo apt-get install python3-dev libpq-dev`
+
+### Using Flower
+Extend your celery config and add the following 
+```python
+[program:flower]
+command=/path/to/your/venv/bin/flower --port=5555  # Adjust port as needed
+directory=/path/to/your/django/project
+user=your_username
+autostart=true
+autorestart=true
+startsecs=10
+stdout_logfile=/var/log/flower.log
+stderr_logfile=/var/log/flower.log
+```
