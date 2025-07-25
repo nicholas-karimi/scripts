@@ -1,0 +1,7824 @@
+[
+  {
+    "county_code": "001",
+    "county_name": "MOMBASA",
+    "constituencies": [
+      {
+        "const_code": "001",
+        "const_name": "CHANGAMWE",
+        "wards": [
+          {
+            "ward_code": "0001",
+            "ward_name": "PORT REITZ"
+          },
+          {
+            "ward_code": "0002",
+            "ward_name": "KIPEVU"
+          },
+          {
+            "ward_code": "0003",
+            "ward_name": "AIRPORT"
+          },
+          {
+            "ward_code": "0004",
+            "ward_name": "CHANGAMWE"
+          },
+          {
+            "ward_code": "0005",
+            "ward_name": "CHAANI"
+          }
+        ]
+      },
+      {
+        "const_code": "002",
+        "const_name": "JOMVU",
+        "wards": [
+          {
+            "ward_code": "0006",
+            "ward_name": "JOMVU KUU"
+          },
+          {
+            "ward_code": "0007",
+            "ward_name": "MIRITINI"
+          },
+          {
+            "ward_code": "0008",
+            "ward_name": "MIKINDANI"
+          }
+        ]
+      },
+      {
+        "const_code": "003",
+        "const_name": "KISAUNI",
+        "wards": [
+          {
+            "ward_code": "0009",
+            "ward_name": "MJAMBERE"
+          },
+          {
+            "ward_code": "0010",
+            "ward_name": "JUNDA"
+          },
+          {
+            "ward_code": "0011",
+            "ward_name": "BAMBURI"
+          },
+          {
+            "ward_code": "0012",
+            "ward_name": "MWAKIRUNGE"
+          },
+          {
+            "ward_code": "0013",
+            "ward_name": "MTOPANGA"
+          },
+          {
+            "ward_code": "0014",
+            "ward_name": "MAGOGONI"
+          },
+          {
+            "ward_code": "0015",
+            "ward_name": "SHANZU"
+          }
+        ]
+      },
+      {
+        "const_code": "004",
+        "const_name": "NYALI",
+        "wards": [
+          {
+            "ward_code": "0016",
+            "ward_name": "FRERE TOWN"
+          },
+          {
+            "ward_code": "0017",
+            "ward_name": "ZIWA LA NG'OMBE"
+          },
+          {
+            "ward_code": "0018",
+            "ward_name": "MKOMANI"
+          },
+          {
+            "ward_code": "0019",
+            "ward_name": "KONGOWEA"
+          },
+          {
+            "ward_code": "0020",
+            "ward_name": "KADZANDANI"
+          }
+        ]
+      },
+      {
+        "const_code": "005",
+        "const_name": "LIKONI",
+        "wards": [
+          {
+            "ward_code": "0021",
+            "ward_name": "MTONGWE"
+          },
+          {
+            "ward_code": "0022",
+            "ward_name": "SHIKA ADABU"
+          },
+          {
+            "ward_code": "0023",
+            "ward_name": "BOFU"
+          },
+          {
+            "ward_code": "0024",
+            "ward_name": "LIKONI"
+          },
+          {
+            "ward_code": "0025",
+            "ward_name": "TIMBWANI"
+          }
+        ]
+      },
+      {
+        "const_code": "006",
+        "const_name": "MVITA",
+        "wards": [
+          {
+            "ward_code": "0026",
+            "ward_name": "MJI WA KALE/MAKADARA"
+          },
+          {
+            "ward_code": "0027",
+            "ward_name": "TUDOR"
+          },
+          {
+            "ward_code": "0028",
+            "ward_name": "TONONOKA"
+          },
+          {
+            "ward_code": "0029",
+            "ward_name": "SHIMANZI/GANJONI"
+          },
+          {
+            "ward_code": "0030",
+            "ward_name": "MAJENGO"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "county_code": "002",
+    "county_name": "KWALE",
+    "constituencies": [
+      {
+        "const_code": "007",
+        "const_name": "MSAMBWENI",
+        "wards": [
+          {
+            "ward_code": "0031",
+            "ward_name": "GOMBATO BONGWE"
+          },
+          {
+            "ward_code": "0032",
+            "ward_name": "UKUNDA"
+          },
+          {
+            "ward_code": "0033",
+            "ward_name": "KINONDO"
+          },
+          {
+            "ward_code": "0034",
+            "ward_name": "RAMISI"
+          }
+        ]
+      },
+      {
+        "const_code": "008",
+        "const_name": "LUNGALUNGA",
+        "wards": [
+          {
+            "ward_code": "0035",
+            "ward_name": "PONGWE/KIKONENI"
+          },
+          {
+            "ward_code": "0036",
+            "ward_name": "DZOMBO"
+          },
+          {
+            "ward_code": "0037",
+            "ward_name": "MWERENI"
+          },
+          {
+            "ward_code": "0038",
+            "ward_name": "VANGA"
+          }
+        ]
+      },
+      {
+        "const_code": "009",
+        "const_name": "MATUGA",
+        "wards": [
+          {
+            "ward_code": "0039",
+            "ward_name": "TSIMBA GOLINI"
+          },
+          {
+            "ward_code": "0040",
+            "ward_name": "WAA"
+          },
+          {
+            "ward_code": "0041",
+            "ward_name": "TIWI"
+          },
+          {
+            "ward_code": "0042",
+            "ward_name": "KUBO SOUTH"
+          },
+          {
+            "ward_code": "0043",
+            "ward_name": "MKONGANI"
+          }
+        ]
+      },
+      {
+        "const_code": "010",
+        "const_name": "KINANGO",
+        "wards": [
+          {
+            "ward_code": "0044",
+            "ward_name": "NDAVAYA"
+          },
+          {
+            "ward_code": "0045",
+            "ward_name": "PUMA"
+          },
+          {
+            "ward_code": "0046",
+            "ward_name": "KINANGO"
+          },
+          {
+            "ward_code": "0047",
+            "ward_name": "MACKINNON ROAD"
+          },
+          {
+            "ward_code": "0048",
+            "ward_name": "CHENGONI/SAMBURU"
+          },
+          {
+            "ward_code": "0049",
+            "ward_name": "MWAVUMBO"
+          },
+          {
+            "ward_code": "0050",
+            "ward_name": "KASEMENI"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "county_code": "003",
+    "county_name": "KILIFI",
+    "constituencies": [
+      {
+        "const_code": "011",
+        "const_name": "KILIFI NORTH",
+        "wards": [
+          {
+            "ward_code": "0051",
+            "ward_name": "TEZO"
+          },
+          {
+            "ward_code": "0052",
+            "ward_name": "SOKONI"
+          },
+          {
+            "ward_code": "0053",
+            "ward_name": "KIBARANI"
+          },
+          {
+            "ward_code": "0054",
+            "ward_name": "DABASO"
+          },
+          {
+            "ward_code": "0055",
+            "ward_name": "MATSANGONI"
+          },
+          {
+            "ward_code": "0056",
+            "ward_name": "WATAMU"
+          },
+          {
+            "ward_code": "0057",
+            "ward_name": "MNARANI"
+          }
+        ]
+      },
+      {
+        "const_code": "012",
+        "const_name": "KILIFI SOUTH",
+        "wards": [
+          {
+            "ward_code": "0058",
+            "ward_name": "JUNJU"
+          },
+          {
+            "ward_code": "0059",
+            "ward_name": "MWARAKAYA"
+          },
+          {
+            "ward_code": "0060",
+            "ward_name": "SHIMO LA TEWA"
+          },
+          {
+            "ward_code": "0061",
+            "ward_name": "CHASIMBA"
+          },
+          {
+            "ward_code": "0062",
+            "ward_name": "MTEPENI"
+          }
+        ]
+      },
+      {
+        "const_code": "013",
+        "const_name": "KALOLENI",
+        "wards": [
+          {
+            "ward_code": "0063",
+            "ward_name": "MARIAKANI"
+          },
+          {
+            "ward_code": "0063",
+            "ward_name": "KAYAFUNGO"
+          },
+          {
+            "ward_code": "0065",
+            "ward_name": "KALOLENI"
+          },
+          {
+            "ward_code": "0066",
+            "ward_name": "MWANAMWINGA"
+          }
+        ]
+      },
+      {
+        "const_code": "014",
+        "const_name": "RABAI",
+        "wards": [
+          {
+            "ward_code": "0067",
+            "ward_name": "MWAWESA"
+          },
+          {
+            "ward_code": "0068",
+            "ward_name": "RURUMA"
+          },
+          {
+            "ward_code": "0069",
+            "ward_name": "KAMBE/RIBE"
+          },
+          {
+            "ward_code": "0070",
+            "ward_name": "RABAI/KISURUTINI"
+          }
+        ]
+      },
+      {
+        "const_code": "015",
+        "const_name": "GANZE",
+        "wards": [
+          {
+            "ward_code": "0071",
+            "ward_name": "GANZE"
+          },
+          {
+            "ward_code": "0072",
+            "ward_name": "BAMBA"
+          },
+          {
+            "ward_code": "0073",
+            "ward_name": "JARIBUNI"
+          },
+          {
+            "ward_code": "0074",
+            "ward_name": "SOKOKE"
+          }
+        ]
+      },
+      {
+        "const_code": "016",
+        "const_name": "MALINDI",
+        "wards": [
+          {
+            "ward_code": "0075",
+            "ward_name": "JILORE"
+          },
+          {
+            "ward_code": "0076",
+            "ward_name": "KAKUYUNI"
+          },
+          {
+            "ward_code": "0077",
+            "ward_name": "GANDA"
+          },
+          {
+            "ward_code": "0078",
+            "ward_name": "MALINDI TOWN"
+          },
+          {
+            "ward_code": "0079",
+            "ward_name": "SHELLA"
+          }
+        ]
+      },
+      {
+        "const_code": "017",
+        "const_name": "MAGARINI",
+        "wards": [
+          {
+            "ward_code": "0080",
+            "ward_name": "MARAFA"
+          },
+          {
+            "ward_code": "0081",
+            "ward_name": "MAGARINI"
+          },
+          {
+            "ward_code": "0082",
+            "ward_name": "GONGONI"
+          },
+          {
+            "ward_code": "0083",
+            "ward_name": "ADU"
+          },
+          {
+            "ward_code": "0084",
+            "ward_name": "GARASHI"
+          },
+          {
+            "ward_code": "0085",
+            "ward_name": "SABAKI"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "county_code": "004",
+    "county_name": "TANA RIVER",
+    "constituencies": [
+      {
+        "const_code": "018",
+        "const_name": "GARSEN",
+        "wards": [
+          {
+            "ward_code": "0086",
+            "ward_name": "KIPINI EAST"
+          },
+          {
+            "ward_code": "0087",
+            "ward_name": "GARSEN SOUTH"
+          },
+          {
+            "ward_code": "0088",
+            "ward_name": "KIPINI WEST"
+          },
+          {
+            "ward_code": "0089",
+            "ward_name": "GARSEN CENTRAL"
+          },
+          {
+            "ward_code": "0090",
+            "ward_name": "GARSEN WEST"
+          },
+          {
+            "ward_code": "0091",
+            "ward_name": "GARSEN NORTH"
+          }
+        ]
+      },
+      {
+        "const_code": "019",
+        "const_name": "GALOLE",
+        "wards": [
+          {
+            "ward_code": "0092",
+            "ward_name": "KINAKOMBA"
+          },
+          {
+            "ward_code": "0093",
+            "ward_name": "MIKINDUNI"
+          },
+          {
+            "ward_code": "0094",
+            "ward_name": "CHEWANI"
+          },
+          {
+            "ward_code": "0095",
+            "ward_name": "WAYU"
+          }
+        ]
+      },
+      {
+        "const_code": "020",
+        "const_name": "BURA",
+        "wards": [
+          {
+            "ward_code": "0096",
+            "ward_name": "CHEWELE"
+          },
+          {
+            "ward_code": "0097",
+            "ward_name": "HIRIMANI"
+          },
+          {
+            "ward_code": "0098",
+            "ward_name": "BANGALE"
+          },
+          {
+            "ward_code": "0099",
+            "ward_name": "SALA"
+          },
+          {
+            "ward_code": "0100",
+            "ward_name": "MADOGO"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "county_code": "005",
+    "county_name": "LAMU",
+    "constituencies": [
+      {
+        "const_code": "021",
+        "const_name": "LAMU EAST",
+        "wards": [
+          {
+            "ward_code": "0101",
+            "ward_name": "FAZA"
+          },
+          {
+            "ward_code": "0102",
+            "ward_name": "KIUNGA"
+          },
+          {
+            "ward_code": "0103",
+            "ward_name": "BASUBA"
+          }
+        ]
+      },
+      {
+        "const_code": "022",
+        "const_name": "LAMU WEST",
+        "wards": [
+          {
+            "ward_code": "0104",
+            "ward_name": "SHELLA"
+          },
+          {
+            "ward_code": "0105",
+            "ward_name": "MKOMANI"
+          },
+          {
+            "ward_code": "0106",
+            "ward_name": "HINDI"
+          },
+          {
+            "ward_code": "0107",
+            "ward_name": "MKUNUMBI"
+          },
+          {
+            "ward_code": "0108",
+            "ward_name": "HONGWE"
+          },
+          {
+            "ward_code": "0109",
+            "ward_name": "WITU"
+          },
+          {
+            "ward_code": "0110",
+            "ward_name": "BAHARI"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "county_code": "006",
+    "county_name": "TAITA TAVETA",
+    "constituencies": [
+      {
+        "const_code": "023",
+        "const_name": "TAVETA",
+        "wards": [
+          {
+            "ward_code": "0111",
+            "ward_name": "CHALA"
+          },
+          {
+            "ward_code": "0112",
+            "ward_name": "MAHOO"
+          },
+          {
+            "ward_code": "0113",
+            "ward_name": "BOMANI"
+          },
+          {
+            "ward_code": "0114",
+            "ward_name": "MBOGHONI"
+          },
+          {
+            "ward_code": "0115",
+            "ward_name": "MATA"
+          }
+        ]
+      },
+      {
+        "const_code": "024",
+        "const_name": "WUNDANYI",
+        "wards": [
+          {
+            "ward_code": "0116",
+            "ward_name": "WUNDANYI/MBALE"
+          },
+          {
+            "ward_code": "0117",
+            "ward_name": "WERUGHA"
+          },
+          {
+            "ward_code": "0118",
+            "ward_name": "WUMINGU/KISHUSHE"
+          },
+          {
+            "ward_code": "0119",
+            "ward_name": "MWANDA/MGANGE"
+          }
+        ]
+      },
+      {
+        "const_code": "025",
+        "const_name": "MWATATE",
+        "wards": [
+          {
+            "ward_code": "0120",
+            "ward_name": "RONG'E"
+          },
+          {
+            "ward_code": "0121",
+            "ward_name": "MWATATE"
+          },
+          {
+            "ward_code": "0122",
+            "ward_name": "BURA"
+          },
+          {
+            "ward_code": "0123",
+            "ward_name": "CHAWIA"
+          },
+          {
+            "ward_code": "0124",
+            "ward_name": "WUSI/KISHAMBA"
+          }
+        ]
+      },
+      {
+        "const_code": "026",
+        "const_name": "VOI",
+        "wards": [
+          {
+            "ward_code": "0125",
+            "ward_name": "MBOLOLO"
+          },
+          {
+            "ward_code": "0126",
+            "ward_name": "SAGALLA"
+          },
+          {
+            "ward_code": "0127",
+            "ward_name": "KALOLENI"
+          },
+          {
+            "ward_code": "0128",
+            "ward_name": "MARUNGU"
+          },
+          {
+            "ward_code": "0129",
+            "ward_name": "KASIGAU"
+          },
+          {
+            "ward_code": "0130",
+            "ward_name": "NGOLIA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "county_code": "007",
+    "county_name": "GARISSA",
+    "constituencies": [
+      {
+        "const_code": "027",
+        "const_name": "GARISSA TOWNSHIP",
+        "wards": [
+          {
+            "ward_code": "0131",
+            "ward_name": "WABERI"
+          },
+          {
+            "ward_code": "0132",
+            "ward_name": "GALBET"
+          },
+          {
+            "ward_code": "0133",
+            "ward_name": "TOWNSHIP"
+          },
+          {
+            "ward_code": "0134",
+            "ward_name": "IFTIN"
+          }
+        ]
+      },
+      {
+        "const_code": "028",
+        "const_name": "BALAMBALA",
+        "wards": [
+          {
+            "ward_code": "0135",
+            "ward_name": "BALAMBALA"
+          },
+          {
+            "ward_code": "0136",
+            "ward_name": "DANYERE"
+          },
+          {
+            "ward_code": "0137",
+            "ward_name": "JARA JARA"
+          },
+          {
+            "ward_code": "0138",
+            "ward_name": "SAKA"
+          },
+          {
+            "ward_code": "0139",
+            "ward_name": "SANKURI"
+          }
+        ]
+      },
+      {
+        "const_code": "029",
+        "const_name": "LAGDERA",
+        "wards": [
+          {
+            "ward_code": "0140",
+            "ward_name": "MODOGASHE"
+          },
+          {
+            "ward_code": "0141",
+            "ward_name": "BENANE"
+          },
+          {
+            "ward_code": "0142",
+            "ward_name": "GOREALE"
+          },
+          {
+            "ward_code": "0143",
+            "ward_name": "MAALIMIN"
+          },
+          {
+            "ward_code": "0144",
+            "ward_name": "SABENA"
+          },
+          {
+            "ward_code": "0145",
+            "ward_name": "BARAKI"
+          }
+        ]
+      },
+      {
+        "const_code": "030",
+        "const_name": "DADAAB",
+        "wards": [
+          {
+            "ward_code": "0146",
+            "ward_name": "DERTU"
+          },
+          {
+            "ward_code": "0147",
+            "ward_name": "DADAAB"
+          },
+          {
+            "ward_code": "0148",
+            "ward_name": "LABASIGALE"
+          },
+          {
+            "ward_code": "0149",
+            "ward_name": "DAMAJALE"
+          },
+          {
+            "ward_code": "0150",
+            "ward_name": "LIBOI"
+          },
+          {
+            "ward_code": "0151",
+            "ward_name": "ABAKAILE"
+          }
+        ]
+      },
+      {
+        "const_code": "031",
+        "const_name": "FAFI",
+        "wards": [
+          {
+            "ward_code": "0152",
+            "ward_name": "BURA"
+          },
+          {
+            "ward_code": "0153",
+            "ward_name": "DEKAHARIA"
+          },
+          {
+            "ward_code": "0154",
+            "ward_name": "JARAJILA"
+          },
+          {
+            "ward_code": "0155",
+            "ward_name": "FAFI"
+          },
+          {
+            "ward_code": "0156",
+            "ward_name": "NANIGHI"
+          }
+        ]
+      },
+      {
+        "const_code": "032",
+        "const_name": "IJARA",
+        "wards": [
+          {
+            "ward_code": "0157",
+            "ward_name": "HULUGHO"
+          },
+          {
+            "ward_code": "0158",
+            "ward_name": "SANGAILU"
+          },
+          {
+            "ward_code": "0159",
+            "ward_name": "IJARA"
+          },
+          {
+            "ward_code": "0160",
+            "ward_name": "MASALANI"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "county_code": "008",
+    "county_name": "WAJIR",
+    "constituencies": [
+      {
+        "const_code": "033",
+        "const_name": "WAJIR NORTH",
+        "wards": [
+          {
+            "ward_code": "0161",
+            "ward_name": "GURAR"
+          },
+          {
+            "ward_code": "0162",
+            "ward_name": "BUTE"
+          },
+          {
+            "ward_code": "0163",
+            "ward_name": "KORONDILE"
+          },
+          {
+            "ward_code": "0164",
+            "ward_name": "MALKAGUFU"
+          },
+          {
+            "ward_code": "0165",
+            "ward_name": "BATALU"
+          },
+          {
+            "ward_code": "0166",
+            "ward_name": "DANABA"
+          },
+          {
+            "ward_code": "0167",
+            "ward_name": "GODOMA"
+          }
+        ]
+      },
+      {
+        "const_code": "034",
+        "const_name": "WAJIR EAST",
+        "wards": [
+          {
+            "ward_code": "0168",
+            "ward_name": "WAGBERI"
+          },
+          {
+            "ward_code": "0169",
+            "ward_name": "TOWNSHIP"
+          },
+          {
+            "ward_code": "0170",
+            "ward_name": "BARWAGO"
+          },
+          {
+            "ward_code": "0171",
+            "ward_name": "KHOROF/HARAR"
+          }
+        ]
+      },
+      {
+        "const_code": "035",
+        "const_name": "TARBAJ",
+        "wards": [
+          {
+            "ward_code": "0172",
+            "ward_name": "ELBEN"
+          },
+          {
+            "ward_code": "0173",
+            "ward_name": "SARMAN"
+          },
+          {
+            "ward_code": "0174",
+            "ward_name": "TARBAJ"
+          },
+          {
+            "ward_code": "0175",
+            "ward_name": "WARGADUD"
+          }
+        ]
+      },
+      {
+        "const_code": "036",
+        "const_name": "WAJIR WEST",
+        "wards": [
+          {
+            "ward_code": "0176",
+            "ward_name": "ARBAJAHAN"
+          },
+          {
+            "ward_code": "0177",
+            "ward_name": "HADADO/ATHIBOHOL"
+          },
+          {
+            "ward_code": "0178",
+            "ward_name": "ADAMASAJIDE"
+          },
+          {
+            "ward_code": "0179",
+            "ward_name": "GANYURE/WAGALLA"
+          }
+        ]
+      },
+      {
+        "const_code": "037",
+        "const_name": "ELDAS",
+        "wards": [
+          {
+            "ward_code": "0180",
+            "ward_name": "ELDAS"
+          },
+          {
+            "ward_code": "0181",
+            "ward_name": "DELLA"
+          },
+          {
+            "ward_code": "0182",
+            "ward_name": "LAKOLEY SOUTH/BASIR"
+          },
+          {
+            "ward_code": "0183",
+            "ward_name": "ELNUR/TULA TULA"
+          }
+        ]
+      },
+      {
+        "const_code": "038",
+        "const_name": "WAJIR SOUTH",
+        "wards": [
+          {
+            "ward_code": "0184",
+            "ward_name": "BENANE"
+          },
+          {
+            "ward_code": "0185",
+            "ward_name": "BURDER"
+          },
+          {
+            "ward_code": "0186",
+            "ward_name": "DADAJA BULLA"
+          },
+          {
+            "ward_code": "0187",
+            "ward_name": "HABASSWEIN"
+          },
+          {
+            "ward_code": "0188",
+            "ward_name": "LAGBOGHOL SOUTH"
+          },
+          {
+            "ward_code": "0189",
+            "ward_name": "IBRAHIM URE"
+          },
+          {
+            "ward_code": "0190",
+            "ward_name": "DIIF"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "county_code": "009",
+    "county_name": "MANDERA",
+    "constituencies": [
+      {
+        "const_code": "039",
+        "const_name": "MANDERA WEST",
+        "wards": [
+          {
+            "ward_code": "0191",
+            "ward_name": "TAKABA SOUTH"
+          },
+          {
+            "ward_code": "0191",
+            "ward_name": "TAKABA"
+          },
+          {
+            "ward_code": "0193",
+            "ward_name": "LAGSURE"
+          },
+          {
+            "ward_code": "0194",
+            "ward_name": "DANDU"
+          },
+          {
+            "ward_code": "0195",
+            "ward_name": "GITHER"
+          }
+        ]
+      },
+      {
+        "const_code": "040",
+        "const_name": "BANISSA",
+        "wards": [
+          {
+            "ward_code": "0196",
+            "ward_name": "BANISSA"
+          },
+          {
+            "ward_code": "0197",
+            "ward_name": "DERKHALE"
+          },
+          {
+            "ward_code": "0198",
+            "ward_name": "GUBA"
+          },
+          {
+            "ward_code": "0199",
+            "ward_name": "MALKAMARI"
+          },
+          {
+            "ward_code": "0200",
+            "ward_name": "KILIWEHIRI"
+          }
+        ]
+      },
+      {
+        "const_code": "041",
+        "const_name": "MANDERA NORTH",
+        "wards": [
+          {
+            "ward_code": "0201",
+            "ward_name": "ASHABITO"
+          },
+          {
+            "ward_code": "0202",
+            "ward_name": "GUTICHA"
+          },
+          {
+            "ward_code": "0203",
+            "ward_name": "MOROTHILE"
+          },
+          {
+            "ward_code": "0204",
+            "ward_name": "RHAMU"
+          },
+          {
+            "ward_code": "0205",
+            "ward_name": "RHAMU-DIMTU"
+          }
+        ]
+      },
+      {
+        "const_code": "042",
+        "const_name": "MANDERA SOUTH",
+        "wards": [
+          {
+            "ward_code": "0206",
+            "ward_name": "WARGADUD"
+          },
+          {
+            "ward_code": "0207",
+            "ward_name": "KUTULO"
+          },
+          {
+            "ward_code": "0208",
+            "ward_name": "ELWAK SOUTH"
+          },
+          {
+            "ward_code": "0209",
+            "ward_name": "ELWAK NORTH"
+          },
+          {
+            "ward_code": "0210",
+            "ward_name": "SHIMBIR FATUMA"
+          }
+        ]
+      },
+      {
+        "const_code": "043",
+        "const_name": "MANDERA EAST",
+        "wards": [
+          {
+            "ward_code": "0211",
+            "ward_name": "ARABIA"
+          },
+          {
+            "ward_code": "0212",
+            "ward_name": "TOWNSHIP"
+          },
+          {
+            "ward_code": "0213",
+            "ward_name": "NEBOI"
+          },
+          {
+            "ward_code": "0214",
+            "ward_name": "KHALALIO"
+          },
+          {
+            "ward_code": "0215",
+            "ward_name": "LIBEHIA"
+          }
+        ]
+      },
+      {
+        "const_code": "044",
+        "const_name": "LAFEY",
+        "wards": [
+          {
+            "ward_code": "0216",
+            "ward_name": "SALA"
+          },
+          {
+            "ward_code": "0217",
+            "ward_name": "FINO"
+          },
+          {
+            "ward_code": "0218",
+            "ward_name": "LAFEY"
+          },
+          {
+            "ward_code": "0219",
+            "ward_name": "WARANQARA"
+          },
+          {
+            "ward_code": "0220",
+            "ward_name": "ALANGO GOF"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "county_code": "010",
+    "county_name": "MARSABIT",
+    "constituencies": [
+      {
+        "const_code": "045",
+        "const_name": "MOYALE",
+        "wards": [
+          {
+            "ward_code": "0221",
+            "ward_name": "BUTIYE"
+          },
+          {
+            "ward_code": "0222",
+            "ward_name": "SOLOLO"
+          },
+          {
+            "ward_code": "0223",
+            "ward_name": "HEILLU/MANYATTA"
+          },
+          {
+            "ward_code": "0224",
+            "ward_name": "GOLBO"
+          },
+          {
+            "ward_code": "0225",
+            "ward_name": "MOYALE TOWNSHIP"
+          },
+          {
+            "ward_code": "0226",
+            "ward_name": "URAN"
+          },
+          {
+            "ward_code": "0227",
+            "ward_name": "OBBU"
+          }
+        ]
+      },
+      {
+        "const_code": "046",
+        "const_name": "NORTH HORR",
+        "wards": [
+          {
+            "ward_code": "0228",
+            "ward_name": "DUKANA"
+          },
+          {
+            "ward_code": "0229",
+            "ward_name": "MAIKONA"
+          },
+          {
+            "ward_code": "0230",
+            "ward_name": "TURBI"
+          },
+          {
+            "ward_code": "0231",
+            "ward_name": "NORTH HORR"
+          },
+          {
+            "ward_code": "0232",
+            "ward_name": "ILLERET"
+          }
+        ]
+      },
+      {
+        "const_code": "047",
+        "const_name": "SAKU",
+        "wards": [
+          {
+            "ward_code": "0233",
+            "ward_name": "SAGANTE/JALDESA"
+          },
+          {
+            "ward_code": "0234",
+            "ward_name": "KARARE"
+          },
+          {
+            "ward_code": "0235",
+            "ward_name": "MARSABIT CENTRAL"
+          }
+        ]
+      },
+      {
+        "const_code": "048",
+        "const_name": "LAISAMIS",
+        "wards": [
+          {
+            "ward_code": "0236",
+            "ward_name": "LOIYANGALANI"
+          },
+          {
+            "ward_code": "0237",
+            "ward_name": "KARGI/SOUTH HORR"
+          },
+          {
+            "ward_code": "0238",
+            "ward_name": "KORR/NGURUNIT"
+          },
+          {
+            "ward_code": "0239",
+            "ward_name": "LOGO LOGO"
+          },
+          {
+            "ward_code": "0240",
+            "ward_name": "LAISAMIS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "county_code": "011",
+    "county_name": "ISIOLO",
+    "constituencies": [
+      {
+        "const_code": "049",
+        "const_name": "ISIOLO NORTH",
+        "wards": [
+          {
+            "ward_code": "0241",
+            "ward_name": "WABERA"
+          },
+          {
+            "ward_code": "0242",
+            "ward_name": "BULLA PESA"
+          },
+          {
+            "ward_code": "0243",
+            "ward_name": "CHARI"
+          },
+          {
+            "ward_code": "0244",
+            "ward_name": "CHERAB"
+          },
+          {
+            "ward_code": "0245",
+            "ward_name": "NGARE MARA"
+          },
+          {
+            "ward_code": "0246",
+            "ward_name": "BURAT"
+          },
+          {
+            "ward_code": "0247",
+            "ward_name": "OLDO/NYIRO"
+          }
+        ]
+      },
+      {
+        "const_code": "050",
+        "const_name": "ISIOLO SOUTH",
+        "wards": [
+          {
+            "ward_code": "0248",
+            "ward_name": "GARBATULLA"
+          },
+          {
+            "ward_code": "0249",
+            "ward_name": "KINNA"
+          },
+          {
+            "ward_code": "0250",
+            "ward_name": "SERICHO"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "county_code": "012",
+    "county_name": "MERU",
+    "constituencies": [
+      {
+        "const_code": "051",
+        "const_name": "IGEMBE SOUTH",
+        "wards": [
+          {
+            "ward_code": "0251",
+            "ward_name": "MAUA"
+          },
+          {
+            "ward_code": "0252",
+            "ward_name": "KIEGOI/ANTUBOCHIU"
+          },
+          {
+            "ward_code": "0253",
+            "ward_name": "ATHIRU GAITI"
+          },
+          {
+            "ward_code": "0254",
+            "ward_name": "AKACHIU"
+          },
+          {
+            "ward_code": "0255",
+            "ward_name": "KANUNI"
+          }
+        ]
+      },
+      {
+        "const_code": "052",
+        "const_name": "IGEMBE CENTRAL",
+        "wards": [
+          {
+            "ward_code": "0256",
+            "ward_name": "AKIRANG'ONDU"
+          },
+          {
+            "ward_code": "0257",
+            "ward_name": "ATHIRU RUUJINE"
+          },
+          {
+            "ward_code": "0258",
+            "ward_name": "IGEMBE EAST"
+          },
+          {
+            "ward_code": "0259",
+            "ward_name": "NJIA"
+          },
+          {
+            "ward_code": "0260",
+            "ward_name": "KANGETA"
+          }
+        ]
+      },
+      {
+        "const_code": "053",
+        "const_name": "IGEMBE NORTH",
+        "wards": [
+          {
+            "ward_code": "0261",
+            "ward_name": "ANTUAMBUI"
+          },
+          {
+            "ward_code": "0262",
+            "ward_name": "NTUNENE"
+          },
+          {
+            "ward_code": "0263",
+            "ward_name": "ANTUBETWE KIONGO"
+          },
+          {
+            "ward_code": "0264",
+            "ward_name": "NAATHU"
+          },
+          {
+            "ward_code": "0265",
+            "ward_name": "AMWATHI"
+          }
+        ]
+      },
+      {
+        "const_code": "054",
+        "const_name": "TIGANIA WEST",
+        "wards": [
+          {
+            "ward_code": "0266",
+            "ward_name": "ATHWANA"
+          },
+          {
+            "ward_code": "0267",
+            "ward_name": "AKITHII"
+          },
+          {
+            "ward_code": "0268",
+            "ward_name": "KIANJAI"
+          },
+          {
+            "ward_code": "0269",
+            "ward_name": "NKOMO"
+          },
+          {
+            "ward_code": "0270",
+            "ward_name": "MBEU"
+          }
+        ]
+      },
+      {
+        "const_code": "055",
+        "const_name": "TIGANIA EAST",
+        "wards": [
+          {
+            "ward_code": "0271",
+            "ward_name": "THANGATHA"
+          },
+          {
+            "ward_code": "0272",
+            "ward_name": "MIKINDURI"
+          },
+          {
+            "ward_code": "0273",
+            "ward_name": "KIGUCHWA"
+          },
+          {
+            "ward_code": "0274",
+            "ward_name": "MUTHARA"
+          },
+          {
+            "ward_code": "0275",
+            "ward_name": "KARAMA"
+          }
+        ]
+      },
+      {
+        "const_code": "056",
+        "const_name": "NORTH IMENTI",
+        "wards": [
+          {
+            "ward_code": "0276",
+            "ward_name": "MUNICIPALITY"
+          },
+          {
+            "ward_code": "0277",
+            "ward_name": "NTIMA EAST"
+          },
+          {
+            "ward_code": "0278",
+            "ward_name": "NTIMA WEST"
+          },
+          {
+            "ward_code": "0279",
+            "ward_name": "NYAKI WEST"
+          },
+          {
+            "ward_code": "0280",
+            "ward_name": "NYAKI EAST"
+          }
+        ]
+      },
+      {
+        "const_code": "057",
+        "const_name": "BUURI",
+        "wards": [
+          {
+            "ward_code": "0281",
+            "ward_name": "TIMAU"
+          },
+          {
+            "ward_code": "0282",
+            "ward_name": "KISIMA"
+          },
+          {
+            "ward_code": "0283",
+            "ward_name": "KIIRUA/NAARI"
+          },
+          {
+            "ward_code": "0284",
+            "ward_name": "RUIRI/RWARERA"
+          },
+          {
+            "ward_code": "0289",
+            "ward_name": "KIBIRICHIA"
+          }
+        ]
+      },
+      {
+        "const_code": "058",
+        "const_name": "CENTRAL IMENTI",
+        "wards": [
+          {
+            "ward_code": "0285",
+            "ward_name": "MWANGANTHIA"
+          },
+          {
+            "ward_code": "0286",
+            "ward_name": "ABOTHUGUCHI CENTRAL"
+          },
+          {
+            "ward_code": "0287",
+            "ward_name": "ABOTHUGUCHI WEST"
+          },
+          {
+            "ward_code": "0288",
+            "ward_name": "KIAGU"
+          }
+        ]
+      },
+      {
+        "const_code": "059",
+        "const_name": "SOUTH IMENTI",
+        "wards": [
+          {
+            "ward_code": "0290",
+            "ward_name": "MITUNGUU"
+          },
+          {
+            "ward_code": "0291",
+            "ward_name": "IGOJI EAST"
+          },
+          {
+            "ward_code": "0292",
+            "ward_name": "IGOJI WEST"
+          },
+          {
+            "ward_code": "0293",
+            "ward_name": "ABOGETA EAST"
+          },
+          {
+            "ward_code": "0294",
+            "ward_name": "ABOGETA WEST"
+          },
+          {
+            "ward_code": "0295",
+            "ward_name": "NKUENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "county_code": "013",
+    "county_name": "THARAKA - NITHI",
+    "constituencies": [
+      {
+        "const_code": "060",
+        "const_name": "MAARA",
+        "wards": [
+          {
+            "ward_code": "0296",
+            "ward_name": "MITHERU"
+          },
+          {
+            "ward_code": "0297",
+            "ward_name": "MUTHAMBI"
+          },
+          {
+            "ward_code": "0298",
+            "ward_name": "MWIMBI"
+          },
+          {
+            "ward_code": "0299",
+            "ward_name": "GANGA"
+          },
+          {
+            "ward_code": "0300",
+            "ward_name": "CHOGORIA"
+          }
+        ]
+      },
+      {
+        "const_code": "061",
+        "const_name": "CHUKA/IGAMBANG'OMBE",
+        "wards": [
+          {
+            "ward_code": "0301",
+            "ward_name": "MARIANI"
+          },
+          {
+            "ward_code": "0302",
+            "ward_name": "KARINGANI"
+          },
+          {
+            "ward_code": "0303",
+            "ward_name": "MAGUMONI"
+          },
+          {
+            "ward_code": "0304",
+            "ward_name": "MUGWE"
+          },
+          {
+            "ward_code": "0305",
+            "ward_name": "IGAMBANG'OMBE"
+          }
+        ]
+      },
+      {
+        "const_code": "062",
+        "const_name": "THARAKA",
+        "wards": [
+          {
+            "ward_code": "0306",
+            "ward_name": "GATUNGA"
+          },
+          {
+            "ward_code": "0307",
+            "ward_name": "MUKOTHIMA"
+          },
+          {
+            "ward_code": "0308",
+            "ward_name": "NKONDI"
+          },
+          {
+            "ward_code": "0309",
+            "ward_name": "CHIAKARIGA"
+          },
+          {
+            "ward_code": "0310",
+            "ward_name": "MARIMANTI"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "county_code": "014",
+    "county_name": "EMBU",
+    "constituencies": [
+      {
+        "const_code": "063",
+        "const_name": "MANYATTA",
+        "wards": [
+          {
+            "ward_code": "0311",
+            "ward_name": "RUGURU/NGANDORI"
+          },
+          {
+            "ward_code": "0312",
+            "ward_name": "KITHIMU"
+          },
+          {
+            "ward_code": "0313",
+            "ward_name": "NGINDA"
+          },
+          {
+            "ward_code": "0314",
+            "ward_name": "MBETI NORTH"
+          },
+          {
+            "ward_code": "0315",
+            "ward_name": "KIRIMARI"
+          },
+          {
+            "ward_code": "0316",
+            "ward_name": "GATURI SOUTH"
+          }
+        ]
+      },
+      {
+        "const_code": "064",
+        "const_name": "RUNYENJES",
+        "wards": [
+          {
+            "ward_code": "0317",
+            "ward_name": "GATURI NORTH"
+          },
+          {
+            "ward_code": "0318",
+            "ward_name": "KAGAARI SOUTH"
+          },
+          {
+            "ward_code": "0319",
+            "ward_name": "CENTRAL  WARD"
+          },
+          {
+            "ward_code": "0320",
+            "ward_name": "KAGAARI NORTH"
+          },
+          {
+            "ward_code": "0321",
+            "ward_name": "KYENI NORTH"
+          },
+          {
+            "ward_code": "0322",
+            "ward_name": "KYENI SOUTH"
+          }
+        ]
+      },
+      {
+        "const_code": "065",
+        "const_name": "MBEERE SOUTH",
+        "wards": [
+          {
+            "ward_code": "0323",
+            "ward_name": "MWEA"
+          },
+          {
+            "ward_code": "0324",
+            "ward_name": "MAKIMA"
+          },
+          {
+            "ward_code": "0325",
+            "ward_name": "MBETI SOUTH"
+          },
+          {
+            "ward_code": "0326",
+            "ward_name": "MAVURIA"
+          },
+          {
+            "ward_code": "0327",
+            "ward_name": "KIAMBERE"
+          }
+        ]
+      },
+      {
+        "const_code": "066",
+        "const_name": "MBEERE NORTH",
+        "wards": [
+          {
+            "ward_code": "0328",
+            "ward_name": "NTHAWA"
+          },
+          {
+            "ward_code": "0329",
+            "ward_name": "MUMINJI"
+          },
+          {
+            "ward_code": "0330",
+            "ward_name": "EVURORE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "county_code": "015",
+    "county_name": "KITUI",
+    "constituencies": [
+      {
+        "const_code": "067",
+        "const_name": "MWINGI NORTH",
+        "wards": [
+          {
+            "ward_code": "0331",
+            "ward_name": "NGOMENI"
+          },
+          {
+            "ward_code": "0332",
+            "ward_name": "KYUSO"
+          },
+          {
+            "ward_code": "0333",
+            "ward_name": "MUMONI"
+          },
+          {
+            "ward_code": "0334",
+            "ward_name": "TSEIKURU"
+          },
+          {
+            "ward_code": "0335",
+            "ward_name": "THARAKA"
+          }
+        ]
+      },
+      {
+        "const_code": "068",
+        "const_name": "MWINGI WEST",
+        "wards": [
+          {
+            "ward_code": "0336",
+            "ward_name": "KYOME/THAANA"
+          },
+          {
+            "ward_code": "0337",
+            "ward_name": "NGUUTANI"
+          },
+          {
+            "ward_code": "0338",
+            "ward_name": "MIGWANI"
+          },
+          {
+            "ward_code": "0339",
+            "ward_name": "KIOMO/KYETHANI"
+          }
+        ]
+      },
+      {
+        "const_code": "069",
+        "const_name": "MWINGI CENTRAL",
+        "wards": [
+          {
+            "ward_code": "0340",
+            "ward_name": "CENTRAL"
+          },
+          {
+            "ward_code": "0341",
+            "ward_name": "KIVOU"
+          },
+          {
+            "ward_code": "0342",
+            "ward_name": "NGUNI"
+          },
+          {
+            "ward_code": "0343",
+            "ward_name": "NUU"
+          },
+          {
+            "ward_code": "0344",
+            "ward_name": "MUI"
+          },
+          {
+            "ward_code": "0345",
+            "ward_name": "WAITA"
+          }
+        ]
+      },
+      {
+        "const_code": "070",
+        "const_name": "KITUI WEST",
+        "wards": [
+          {
+            "ward_code": "0346",
+            "ward_name": "MUTONGUNI"
+          },
+          {
+            "ward_code": "0347",
+            "ward_name": "KAUWI"
+          },
+          {
+            "ward_code": "0348",
+            "ward_name": "MATINYANI"
+          },
+          {
+            "ward_code": "0349",
+            "ward_name": "KWA MUTONGA/KITHUMULA"
+          }
+        ]
+      },
+      {
+        "const_code": "071",
+        "const_name": "KITUI RURAL",
+        "wards": [
+          {
+            "ward_code": "0350",
+            "ward_name": "KISASI"
+          },
+          {
+            "ward_code": "0351",
+            "ward_name": "MBITINI"
+          },
+          {
+            "ward_code": "0352",
+            "ward_name": "KWAVONZA/YATTA"
+          },
+          {
+            "ward_code": "0353",
+            "ward_name": "KANYANGI"
+          }
+        ]
+      },
+      {
+        "const_code": "072",
+        "const_name": "KITUI CENTRAL",
+        "wards": [
+          {
+            "ward_code": "0354",
+            "ward_name": "MIAMBANI"
+          },
+          {
+            "ward_code": "0355",
+            "ward_name": "TOWNSHIP"
+          },
+          {
+            "ward_code": "0356",
+            "ward_name": "KYANGWITHYA WEST"
+          },
+          {
+            "ward_code": "0357",
+            "ward_name": "MULANGO"
+          },
+          {
+            "ward_code": "0358",
+            "ward_name": "KYANGWITHYA EAST"
+          }
+        ]
+      },
+      {
+        "const_code": "073",
+        "const_name": "KITUI EAST",
+        "wards": [
+          {
+            "ward_code": "0359",
+            "ward_name": "ZOMBE/MWITIKA"
+          },
+          {
+            "ward_code": "0360",
+            "ward_name": "NZAMBANI"
+          },
+          {
+            "ward_code": "0361",
+            "ward_name": "CHULUNI"
+          },
+          {
+            "ward_code": "0362",
+            "ward_name": "VOO/KYAMATU"
+          },
+          {
+            "ward_code": "0363",
+            "ward_name": "ENDAU/MALALANI"
+          },
+          {
+            "ward_code": "0364",
+            "ward_name": "MUTITO/KALIKU"
+          }
+        ]
+      },
+      {
+        "const_code": "074",
+        "const_name": "KITUI SOUTH",
+        "wards": [
+          {
+            "ward_code": "0365",
+            "ward_name": "IKANGA/KYATUNE"
+          },
+          {
+            "ward_code": "0366",
+            "ward_name": "MUTOMO"
+          },
+          {
+            "ward_code": "0367",
+            "ward_name": "MUTHA"
+          },
+          {
+            "ward_code": "0368",
+            "ward_name": "IKUTHA"
+          },
+          {
+            "ward_code": "0369",
+            "ward_name": "KANZIKO"
+          },
+          {
+            "ward_code": "0370",
+            "ward_name": "ATHI"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "county_code": "016",
+    "county_name": "MACHAKOS",
+    "constituencies": [
+      {
+        "const_code": "075",
+        "const_name": "MASINGA",
+        "wards": [
+          {
+            "ward_code": "0371",
+            "ward_name": "KIVAA"
+          },
+          {
+            "ward_code": "0372",
+            "ward_name": "MASINGA CENTRAL"
+          },
+          {
+            "ward_code": "0373",
+            "ward_name": "EKALAKALA"
+          },
+          {
+            "ward_code": "0374",
+            "ward_name": "MUTHESYA"
+          },
+          {
+            "ward_code": "0375",
+            "ward_name": "NDITHINI"
+          }
+        ]
+      },
+      {
+        "const_code": "076",
+        "const_name": "YATTA",
+        "wards": [
+          {
+            "ward_code": "0376",
+            "ward_name": "NDALANI"
+          },
+          {
+            "ward_code": "0377",
+            "ward_name": "MATUU"
+          },
+          {
+            "ward_code": "0378",
+            "ward_name": "KITHIMANI"
+          },
+          {
+            "ward_code": "0379",
+            "ward_name": "IKOMBE"
+          },
+          {
+            "ward_code": "0380",
+            "ward_name": "KATANGI"
+          }
+        ]
+      },
+      {
+        "const_code": "077",
+        "const_name": "KANGUNDO",
+        "wards": [
+          {
+            "ward_code": "0381",
+            "ward_name": "KANGUNDO NORTH"
+          },
+          {
+            "ward_code": "0382",
+            "ward_name": "KANGUNDO CENTRAL"
+          },
+          {
+            "ward_code": "0383",
+            "ward_name": "KANGUNDO EAST"
+          },
+          {
+            "ward_code": "0384",
+            "ward_name": "KANGUNDO WEST"
+          }
+        ]
+      },
+      {
+        "const_code": "078",
+        "const_name": "MATUNGULU",
+        "wards": [
+          {
+            "ward_code": "0385",
+            "ward_name": "TALA"
+          },
+          {
+            "ward_code": "0386",
+            "ward_name": "MATUNGULU NORTH"
+          },
+          {
+            "ward_code": "0387",
+            "ward_name": "MATUNGULU EAST"
+          },
+          {
+            "ward_code": "0388",
+            "ward_name": "MATUNGULU WEST"
+          },
+          {
+            "ward_code": "0389",
+            "ward_name": "KYELENI"
+          }
+        ]
+      },
+      {
+        "const_code": "079",
+        "const_name": "KATHIANI",
+        "wards": [
+          {
+            "ward_code": "0390",
+            "ward_name": "MITABONI"
+          },
+          {
+            "ward_code": "0391",
+            "ward_name": "KATHIANI CENTRAL"
+          },
+          {
+            "ward_code": "0392",
+            "ward_name": "UPPER KAEWA/IVETI"
+          },
+          {
+            "ward_code": "0393",
+            "ward_name": "LOWER KAEWA/KAANI"
+          }
+        ]
+      },
+      {
+        "const_code": "080",
+        "const_name": "MAVOKO",
+        "wards": [
+          {
+            "ward_code": "0394",
+            "ward_name": "ATHI RIVER"
+          },
+          {
+            "ward_code": "0395",
+            "ward_name": "KINANIE"
+          },
+          {
+            "ward_code": "0396",
+            "ward_name": "MUTHWANI"
+          },
+          {
+            "ward_code": "0397",
+            "ward_name": "SYOKIMAU/MULOLONGO"
+          }
+        ]
+      },
+      {
+        "const_code": "081",
+        "const_name": "MACHAKOS TOWN",
+        "wards": [
+          {
+            "ward_code": "0398",
+            "ward_name": "KALAMA"
+          },
+          {
+            "ward_code": "0399",
+            "ward_name": "MUA"
+          },
+          {
+            "ward_code": "0400",
+            "ward_name": "MUTITUNI"
+          },
+          {
+            "ward_code": "0401",
+            "ward_name": "MACHAKOS CENTRAL"
+          },
+          {
+            "ward_code": "0402",
+            "ward_name": "MUMBUNI NORTH"
+          },
+          {
+            "ward_code": "0403",
+            "ward_name": "MUVUTI/KIIMA-KIMWE"
+          },
+          {
+            "ward_code": "0404",
+            "ward_name": "KOLA"
+          }
+        ]
+      },
+      {
+        "const_code": "082",
+        "const_name": "MWALA",
+        "wards": [
+          {
+            "ward_code": "0405",
+            "ward_name": "MBIUNI"
+          },
+          {
+            "ward_code": "0406",
+            "ward_name": "MAKUTANO/ MWALA"
+          },
+          {
+            "ward_code": "0407",
+            "ward_name": "MASII"
+          },
+          {
+            "ward_code": "0408",
+            "ward_name": "MUTHETHENI"
+          },
+          {
+            "ward_code": "0409",
+            "ward_name": "WAMUNYU"
+          },
+          {
+            "ward_code": "0410",
+            "ward_name": "KIBAUNI"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "county_code": "017",
+    "county_name": "MAKUENI",
+    "constituencies": [
+      {
+        "const_code": "083",
+        "const_name": "MBOONI",
+        "wards": [
+          {
+            "ward_code": "0411",
+            "ward_name": "TULIMANI"
+          },
+          {
+            "ward_code": "0412",
+            "ward_name": "MBOONI"
+          },
+          {
+            "ward_code": "0413",
+            "ward_name": "KITHUNGO/KITUNDU"
+          },
+          {
+            "ward_code": "0414",
+            "ward_name": "KITETA/KISAU"
+          },
+          {
+            "ward_code": "0415",
+            "ward_name": "WAIA-KAKO"
+          },
+          {
+            "ward_code": "0416",
+            "ward_name": "KALAWA"
+          }
+        ]
+      },
+      {
+        "const_code": "084",
+        "const_name": "KILOME",
+        "wards": [
+          {
+            "ward_code": "0417",
+            "ward_name": "KASIKEU"
+          },
+          {
+            "ward_code": "0418",
+            "ward_name": "MUKAA"
+          },
+          {
+            "ward_code": "0419",
+            "ward_name": "KIIMA KIU/KALANZONI"
+          }
+        ]
+      },
+      {
+        "const_code": "085",
+        "const_name": "KAITI",
+        "wards": [
+          {
+            "ward_code": "0420",
+            "ward_name": "UKIA"
+          },
+          {
+            "ward_code": "0421",
+            "ward_name": "KEE"
+          },
+          {
+            "ward_code": "0422",
+            "ward_name": "KILUNGU"
+          },
+          {
+            "ward_code": "0423",
+            "ward_name": "ILIMA"
+          }
+        ]
+      },
+      {
+        "const_code": "086",
+        "const_name": "MAKUENI",
+        "wards": [
+          {
+            "ward_code": "0424",
+            "ward_name": "WOTE"
+          },
+          {
+            "ward_code": "0425",
+            "ward_name": "MUVAU/KIKUUMINI"
+          },
+          {
+            "ward_code": "0426",
+            "ward_name": "MAVINDINI"
+          },
+          {
+            "ward_code": "0427",
+            "ward_name": "KITISE/KITHUKI"
+          },
+          {
+            "ward_code": "0428",
+            "ward_name": "KATHONZWENI"
+          },
+          {
+            "ward_code": "0429",
+            "ward_name": "NZAUI/KILILI/KALAMBA"
+          },
+          {
+            "ward_code": "0430",
+            "ward_name": "MBITINI"
+          }
+        ]
+      },
+      {
+        "const_code": "087",
+        "const_name": "KIBWEZI WEST",
+        "wards": [
+          {
+            "ward_code": "0431",
+            "ward_name": "MAKINDU"
+          },
+          {
+            "ward_code": "0432",
+            "ward_name": "NGUUMO"
+          },
+          {
+            "ward_code": "0433",
+            "ward_name": "KIKUMBULYU NORTH"
+          },
+          {
+            "ward_code": "0434",
+            "ward_name": "KIKUMBULYU SOUTH"
+          },
+          {
+            "ward_code": "0435",
+            "ward_name": "NGUU/MASUMBA"
+          },
+          {
+            "ward_code": "0436",
+            "ward_name": "EMALI/MULALA"
+          }
+        ]
+      },
+      {
+        "const_code": "088",
+        "const_name": "KIBWEZI EAST",
+        "wards": [
+          {
+            "ward_code": "0437",
+            "ward_name": "MASONGALENI"
+          },
+          {
+            "ward_code": "0438",
+            "ward_name": "MTITO ANDEI"
+          },
+          {
+            "ward_code": "0439",
+            "ward_name": "THANGE"
+          },
+          {
+            "ward_code": "0440",
+            "ward_name": "IVINGONI/NZAMBANI"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "county_code": "018",
+    "county_name": "NYANDARUA",
+    "constituencies": [
+      {
+        "const_code": "089",
+        "const_name": "KINANGOP",
+        "wards": [
+          {
+            "ward_code": "0441",
+            "ward_name": "ENGINEER"
+          },
+          {
+            "ward_code": "0442",
+            "ward_name": "GATHARA"
+          },
+          {
+            "ward_code": "0443",
+            "ward_name": "NORTH KINANGOP"
+          },
+          {
+            "ward_code": "0444",
+            "ward_name": "MURUNGARU"
+          },
+          {
+            "ward_code": "0445",
+            "ward_name": "NJABINI\\KIBURU"
+          },
+          {
+            "ward_code": "0446",
+            "ward_name": "NYAKIO"
+          },
+          {
+            "ward_code": "0447",
+            "ward_name": "GITHABAI"
+          },
+          {
+            "ward_code": "0448",
+            "ward_name": "MAGUMU"
+          }
+        ]
+      },
+      {
+        "const_code": "090",
+        "const_name": "KIPIPIRI",
+        "wards": [
+          {
+            "ward_code": "0449",
+            "ward_name": "WANJOHI"
+          },
+          {
+            "ward_code": "0450",
+            "ward_name": "KIPIPIRI"
+          },
+          {
+            "ward_code": "0451",
+            "ward_name": "GETA"
+          },
+          {
+            "ward_code": "0452",
+            "ward_name": "GITHIORO"
+          }
+        ]
+      },
+      {
+        "const_code": "091",
+        "const_name": "OL KALOU",
+        "wards": [
+          {
+            "ward_code": "0453",
+            "ward_name": "KARAU"
+          },
+          {
+            "ward_code": "0454",
+            "ward_name": "KANJUIRI RANGE"
+          },
+          {
+            "ward_code": "0455",
+            "ward_name": "MIRANGINE"
+          },
+          {
+            "ward_code": "0456",
+            "ward_name": "KAIMBAGA"
+          },
+          {
+            "ward_code": "0457",
+            "ward_name": "RURII"
+          }
+        ]
+      },
+      {
+        "const_code": "092",
+        "const_name": "OL JOROK",
+        "wards": [
+          {
+            "ward_code": "0458",
+            "ward_name": "GATHANJI"
+          },
+          {
+            "ward_code": "0459",
+            "ward_name": "GATIMU"
+          },
+          {
+            "ward_code": "0460",
+            "ward_name": "WERU"
+          },
+          {
+            "ward_code": "0461",
+            "ward_name": "CHARAGITA"
+          }
+        ]
+      },
+      {
+        "const_code": "093",
+        "const_name": "NDARAGWA",
+        "wards": [
+          {
+            "ward_code": "0462",
+            "ward_name": "LESHAU/PONDO"
+          },
+          {
+            "ward_code": "0463",
+            "ward_name": "KIRIITA"
+          },
+          {
+            "ward_code": "0464",
+            "ward_name": "CENTRAL"
+          },
+          {
+            "ward_code": "0465",
+            "ward_name": "SHAMATA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "county_code": "019",
+    "county_name": "NYERI",
+    "constituencies": [
+      {
+        "const_code": "094",
+        "const_name": "TETU",
+        "wards": [
+          {
+            "ward_code": "0466",
+            "ward_name": "DEDAN KIMANTHI"
+          },
+          {
+            "ward_code": "0467",
+            "ward_name": "WAMAGANA"
+          },
+          {
+            "ward_code": "0468",
+            "ward_name": "AGUTHI-GAAKI"
+          }
+        ]
+      },
+      {
+        "const_code": "095",
+        "const_name": "KIENI",
+        "wards": [
+          {
+            "ward_code": "0469",
+            "ward_name": "MWEIGA"
+          },
+          {
+            "ward_code": "0470",
+            "ward_name": "NAROMORU KIAMATHAGA"
+          },
+          {
+            "ward_code": "0471",
+            "ward_name": "MWIYOGO/ENDARASHA"
+          },
+          {
+            "ward_code": "0472",
+            "ward_name": "MUGUNDA"
+          },
+          {
+            "ward_code": "0473",
+            "ward_name": "GATARAKWA"
+          },
+          {
+            "ward_code": "0474",
+            "ward_name": "THEGU RIVER"
+          },
+          {
+            "ward_code": "0475",
+            "ward_name": "KABARU"
+          },
+          {
+            "ward_code": "0476",
+            "ward_name": "GAKAWA"
+          }
+        ]
+      },
+      {
+        "const_code": "096",
+        "const_name": "MATHIRA",
+        "wards": [
+          {
+            "ward_code": "0477",
+            "ward_name": "RUGURU"
+          },
+          {
+            "ward_code": "0478",
+            "ward_name": "MAGUTU"
+          },
+          {
+            "ward_code": "0479",
+            "ward_name": "IRIAINI"
+          },
+          {
+            "ward_code": "0480",
+            "ward_name": "KONYU"
+          },
+          {
+            "ward_code": "0481",
+            "ward_name": "KIRIMUKUYU"
+          },
+          {
+            "ward_code": "0482",
+            "ward_name": "KARATINA TOWN"
+          }
+        ]
+      },
+      {
+        "const_code": "097",
+        "const_name": "OTHAYA",
+        "wards": [
+          {
+            "ward_code": "0483",
+            "ward_name": "MAHIGA"
+          },
+          {
+            "ward_code": "0484",
+            "ward_name": "IRIA-INI"
+          },
+          {
+            "ward_code": "0485",
+            "ward_name": "CHINGA"
+          },
+          {
+            "ward_code": "0486",
+            "ward_name": "KARIMA"
+          }
+        ]
+      },
+      {
+        "const_code": "098",
+        "const_name": "MUKURWEINI",
+        "wards": [
+          {
+            "ward_code": "0487",
+            "ward_name": "GIKONDI"
+          },
+          {
+            "ward_code": "0488",
+            "ward_name": "RUGI"
+          },
+          {
+            "ward_code": "0489",
+            "ward_name": "MUKURWE-INI WEST"
+          },
+          {
+            "ward_code": "0490",
+            "ward_name": "MUKURWE-INI CENTRAL"
+          }
+        ]
+      },
+      {
+        "const_code": "099",
+        "const_name": "NYERI TOWN",
+        "wards": [
+          {
+            "ward_code": "0491",
+            "ward_name": "KIGANJO/MATHARI"
+          },
+          {
+            "ward_code": "0492",
+            "ward_name": "RWARE"
+          },
+          {
+            "ward_code": "0493",
+            "ward_name": "GATITU/MURUGURU"
+          },
+          {
+            "ward_code": "0494",
+            "ward_name": "RURING'U"
+          },
+          {
+            "ward_code": "0495",
+            "ward_name": "KAMAKWA/MUKARO"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "county_code": "020",
+    "county_name": "KIRINYAGA",
+    "constituencies": [
+      {
+        "const_code": "100",
+        "const_name": "MWEA",
+        "wards": [
+          {
+            "ward_code": "0496",
+            "ward_name": "MUTITHI"
+          },
+          {
+            "ward_code": "0497",
+            "ward_name": "KANGAI"
+          },
+          {
+            "ward_code": "0498",
+            "ward_name": "THIBA"
+          },
+          {
+            "ward_code": "0499",
+            "ward_name": "WAMUMU"
+          },
+          {
+            "ward_code": "0500",
+            "ward_name": "NYANGATI"
+          },
+          {
+            "ward_code": "0501",
+            "ward_name": "MURINDUKO"
+          },
+          {
+            "ward_code": "0502",
+            "ward_name": "GATHIGIRIRI"
+          },
+          {
+            "ward_code": "0503",
+            "ward_name": "TEBERE"
+          }
+        ]
+      },
+      {
+        "const_code": "101",
+        "const_name": "GICHUGU",
+        "wards": [
+          {
+            "ward_code": "0504",
+            "ward_name": "KABARE"
+          },
+          {
+            "ward_code": "0505",
+            "ward_name": "BARAGWI"
+          },
+          {
+            "ward_code": "0506",
+            "ward_name": "NJUKIINI"
+          },
+          {
+            "ward_code": "0507",
+            "ward_name": "NGARIAMA"
+          },
+          {
+            "ward_code": "0508",
+            "ward_name": "KARUMANDI"
+          }
+        ]
+      },
+      {
+        "const_code": "102",
+        "const_name": "NDIA",
+        "wards": [
+          {
+            "ward_code": "0509",
+            "ward_name": "MUKURE"
+          },
+          {
+            "ward_code": "0510",
+            "ward_name": "KIINE"
+          },
+          {
+            "ward_code": "0511",
+            "ward_name": "KARITI"
+          }
+        ]
+      },
+      {
+        "const_code": "103",
+        "const_name": "KIRINYAGA CENTRAL",
+        "wards": [
+          {
+            "ward_code": "0512",
+            "ward_name": "MUTIRA"
+          },
+          {
+            "ward_code": "0513",
+            "ward_name": "KANYEKINI"
+          },
+          {
+            "ward_code": "0514",
+            "ward_name": "KERUGOYA"
+          },
+          {
+            "ward_code": "0515",
+            "ward_name": "INOI"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "county_code": "021",
+    "county_name": "MURANG'A",
+    "constituencies": [
+      {
+        "const_code": "104",
+        "const_name": "KANGEMA",
+        "wards": [
+          {
+            "ward_code": "0516",
+            "ward_name": "KANYENYA-INI"
+          },
+          {
+            "ward_code": "0517",
+            "ward_name": "MUGURU"
+          },
+          {
+            "ward_code": "0518",
+            "ward_name": "RWATHIA"
+          }
+        ]
+      },
+      {
+        "const_code": "105",
+        "const_name": "MATHIOYA",
+        "wards": [
+          {
+            "ward_code": "0519",
+            "ward_name": "GITUGI"
+          },
+          {
+            "ward_code": "0520",
+            "ward_name": "KIRU"
+          },
+          {
+            "ward_code": "0521",
+            "ward_name": "KAMACHARIA"
+          }
+        ]
+      },
+      {
+        "const_code": "106",
+        "const_name": "KIHARU",
+        "wards": [
+          {
+            "ward_code": "0522",
+            "ward_name": "WANGU"
+          },
+          {
+            "ward_code": "0523",
+            "ward_name": "MUGOIRI"
+          },
+          {
+            "ward_code": "0524",
+            "ward_name": "MBIRI"
+          },
+          {
+            "ward_code": "0525",
+            "ward_name": "TOWNSHIP"
+          },
+          {
+            "ward_code": "0526",
+            "ward_name": "MURARANDIA"
+          },
+          {
+            "ward_code": "0527",
+            "ward_name": "GATURI"
+          }
+        ]
+      },
+      {
+        "const_code": "107",
+        "const_name": "KIGUMO",
+        "wards": [
+          {
+            "ward_code": "0528",
+            "ward_name": "KAHUMBU"
+          },
+          {
+            "ward_code": "0529",
+            "ward_name": "MUTHITHI"
+          },
+          {
+            "ward_code": "0530",
+            "ward_name": "KIGUMO"
+          },
+          {
+            "ward_code": "0531",
+            "ward_name": "KANGARI"
+          },
+          {
+            "ward_code": "0532",
+            "ward_name": "KINYONA"
+          }
+        ]
+      },
+      {
+        "const_code": "108",
+        "const_name": "MARAGWA",
+        "wards": [
+          {
+            "ward_code": "0533",
+            "ward_name": "KIMORORI/WEMPA"
+          },
+          {
+            "ward_code": "0534",
+            "ward_name": "MAKUYU"
+          },
+          {
+            "ward_code": "0535",
+            "ward_name": "KAMBITI"
+          },
+          {
+            "ward_code": "0536",
+            "ward_name": "KAMAHUHA"
+          },
+          {
+            "ward_code": "0537",
+            "ward_name": "ICHAGAKI"
+          },
+          {
+            "ward_code": "0538",
+            "ward_name": "NGINDA"
+          }
+        ]
+      },
+      {
+        "const_code": "109",
+        "const_name": "KANDARA",
+        "wards": [
+          {
+            "ward_code": "0539",
+            "ward_name": "NG'ARARIA"
+          },
+          {
+            "ward_code": "0540",
+            "ward_name": "MURUKA"
+          },
+          {
+            "ward_code": "0541",
+            "ward_name": "KAGUNDU-INI"
+          },
+          {
+            "ward_code": "0542",
+            "ward_name": "GAICHANJIRU"
+          },
+          {
+            "ward_code": "0543",
+            "ward_name": "ITHIRU"
+          },
+          {
+            "ward_code": "0544",
+            "ward_name": "RUCHU"
+          }
+        ]
+      },
+      {
+        "const_code": "110",
+        "const_name": "GATANGA",
+        "wards": [
+          {
+            "ward_code": "0545",
+            "ward_name": "ITHANGA"
+          },
+          {
+            "ward_code": "0546",
+            "ward_name": "KAKUZI/MITUBIRI"
+          },
+          {
+            "ward_code": "0547",
+            "ward_name": "MUGUMO-INI"
+          },
+          {
+            "ward_code": "0548",
+            "ward_name": "KIHUMBU-INI"
+          },
+          {
+            "ward_code": "0549",
+            "ward_name": "GATANGA"
+          },
+          {
+            "ward_code": "0550",
+            "ward_name": "KARIARA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "county_code": "022",
+    "county_name": "KIAMBU",
+    "constituencies": [
+      {
+        "const_code": "111",
+        "const_name": "GATUNDU SOUTH",
+        "wards": [
+          {
+            "ward_code": "0551",
+            "ward_name": "KIAMWANGI"
+          },
+          {
+            "ward_code": "0552",
+            "ward_name": "KIGANJO"
+          },
+          {
+            "ward_code": "0553",
+            "ward_name": "NDARUGU"
+          },
+          {
+            "ward_code": "0554",
+            "ward_name": "NGENDA"
+          }
+        ]
+      },
+      {
+        "const_code": "112",
+        "const_name": "GATUNDU NORTH",
+        "wards": [
+          {
+            "ward_code": "0555",
+            "ward_name": "GITUAMBA"
+          },
+          {
+            "ward_code": "0556",
+            "ward_name": "GITHOBOKONI"
+          },
+          {
+            "ward_code": "0557",
+            "ward_name": "CHANIA"
+          },
+          {
+            "ward_code": "0558",
+            "ward_name": "MANG'U"
+          }
+        ]
+      },
+      {
+        "const_code": "113",
+        "const_name": "JUJA",
+        "wards": [
+          {
+            "ward_code": "0559",
+            "ward_name": "MURERA"
+          },
+          {
+            "ward_code": "0560",
+            "ward_name": "THETA"
+          },
+          {
+            "ward_code": "0561",
+            "ward_name": "JUJA"
+          },
+          {
+            "ward_code": "0562",
+            "ward_name": "WITEITHIE"
+          },
+          {
+            "ward_code": "0563",
+            "ward_name": "KALIMONI"
+          }
+        ]
+      },
+      {
+        "const_code": "114",
+        "const_name": "THIKA TOWN",
+        "wards": [
+          {
+            "ward_code": "0564",
+            "ward_name": "TOWNSHIP"
+          },
+          {
+            "ward_code": "0565",
+            "ward_name": "KAMENU"
+          },
+          {
+            "ward_code": "0566",
+            "ward_name": "HOSPITAL"
+          },
+          {
+            "ward_code": "0567",
+            "ward_name": "GATUANYAGA"
+          },
+          {
+            "ward_code": "0568",
+            "ward_name": "NGOLIBA"
+          }
+        ]
+      },
+      {
+        "const_code": "115",
+        "const_name": "RUIRU",
+        "wards": [
+          {
+            "ward_code": "0569",
+            "ward_name": "GITOTHUA"
+          },
+          {
+            "ward_code": "0570",
+            "ward_name": "BIASHARA"
+          },
+          {
+            "ward_code": "0571",
+            "ward_name": "GATONGORA"
+          },
+          {
+            "ward_code": "0572",
+            "ward_name": "KAHAWA SUKARI"
+          },
+          {
+            "ward_code": "0573",
+            "ward_name": "KAHAWA WENDANI"
+          },
+          {
+            "ward_code": "0574",
+            "ward_name": "KIUU"
+          },
+          {
+            "ward_code": "0575",
+            "ward_name": "MWIKI"
+          },
+          {
+            "ward_code": "0576",
+            "ward_name": "MWIHOKO"
+          }
+        ]
+      },
+      {
+        "const_code": "116",
+        "const_name": "GITHUNGURI",
+        "wards": [
+          {
+            "ward_code": "0577",
+            "ward_name": "GITHUNGURI"
+          },
+          {
+            "ward_code": "0578",
+            "ward_name": "GITHIGA"
+          },
+          {
+            "ward_code": "0579",
+            "ward_name": "IKINU"
+          },
+          {
+            "ward_code": "0580",
+            "ward_name": "NGEWA"
+          },
+          {
+            "ward_code": "0581",
+            "ward_name": "KOMOTHAI"
+          }
+        ]
+      },
+      {
+        "const_code": "117",
+        "const_name": "KIAMBU",
+        "wards": [
+          {
+            "ward_code": "0582",
+            "ward_name": "TING'ANG'A"
+          },
+          {
+            "ward_code": "0583",
+            "ward_name": "NDUMBERI"
+          },
+          {
+            "ward_code": "0584",
+            "ward_name": "RIABAI"
+          },
+          {
+            "ward_code": "0585",
+            "ward_name": "TOWNSHIP"
+          }
+        ]
+      },
+      {
+        "const_code": "118",
+        "const_name": "KIAMBAA",
+        "wards": [
+          {
+            "ward_code": "0586",
+            "ward_name": "CIANDA"
+          },
+          {
+            "ward_code": "0587",
+            "ward_name": "KARURI"
+          },
+          {
+            "ward_code": "0588",
+            "ward_name": "NDENDERU"
+          },
+          {
+            "ward_code": "0589",
+            "ward_name": "MUCHATHA"
+          },
+          {
+            "ward_code": "0590",
+            "ward_name": "KIHARA"
+          }
+        ]
+      },
+      {
+        "const_code": "119",
+        "const_name": "KABETE",
+        "wards": [
+          {
+            "ward_code": "0591",
+            "ward_name": "GITARU"
+          },
+          {
+            "ward_code": "0592",
+            "ward_name": "MUGUGA"
+          },
+          {
+            "ward_code": "0593",
+            "ward_name": "NYADHUNA"
+          },
+          {
+            "ward_code": "0594",
+            "ward_name": "KABETE"
+          },
+          {
+            "ward_code": "0595",
+            "ward_name": "UTHIRU"
+          }
+        ]
+      },
+      {
+        "const_code": "120",
+        "const_name": "KIKUYU",
+        "wards": [
+          {
+            "ward_code": "0596",
+            "ward_name": "KARAI"
+          },
+          {
+            "ward_code": "0597",
+            "ward_name": "NACHU"
+          },
+          {
+            "ward_code": "0598",
+            "ward_name": "SIGONA"
+          },
+          {
+            "ward_code": "0599",
+            "ward_name": "KIKUYU"
+          },
+          {
+            "ward_code": "0600",
+            "ward_name": "KINOO"
+          }
+        ]
+      },
+      {
+        "const_code": "121",
+        "const_name": "LIMURU",
+        "wards": [
+          {
+            "ward_code": "0601",
+            "ward_name": "BIBIRIONI"
+          },
+          {
+            "ward_code": "0602",
+            "ward_name": "LIMURU CENTRAL"
+          },
+          {
+            "ward_code": "0603",
+            "ward_name": "NDEIYA"
+          },
+          {
+            "ward_code": "0604",
+            "ward_name": "LIMURU EAST"
+          },
+          {
+            "ward_code": "0605",
+            "ward_name": "NGECHA TIGONI"
+          }
+        ]
+      },
+      {
+        "const_code": "122",
+        "const_name": "LARI",
+        "wards": [
+          {
+            "ward_code": "0606",
+            "ward_name": "KINALE"
+          },
+          {
+            "ward_code": "0607",
+            "ward_name": "KIJABE"
+          },
+          {
+            "ward_code": "0608",
+            "ward_name": "NYANDUMA"
+          },
+          {
+            "ward_code": "0609",
+            "ward_name": "KAMBURU"
+          },
+          {
+            "ward_code": "0610",
+            "ward_name": "LARI/KIRENGA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "county_code": "023",
+    "county_name": "TURKANA",
+    "constituencies": [
+      {
+        "const_code": "123",
+        "const_name": "TURKANA NORTH",
+        "wards": [
+          {
+            "ward_code": "0611",
+            "ward_name": "KAERIS"
+          },
+          {
+            "ward_code": "0612",
+            "ward_name": "LAKE ZONE"
+          },
+          {
+            "ward_code": "0613",
+            "ward_name": "LAPUR"
+          },
+          {
+            "ward_code": "0614",
+            "ward_name": "KAALENG/KAIKOR"
+          },
+          {
+            "ward_code": "0615",
+            "ward_name": "KIBISH"
+          },
+          {
+            "ward_code": "0616",
+            "ward_name": "NAKALALE"
+          }
+        ]
+      },
+      {
+        "const_code": "124",
+        "const_name": "TURKANA WEST",
+        "wards": [
+          {
+            "ward_code": "0617",
+            "ward_name": "KAKUMA"
+          },
+          {
+            "ward_code": "0618",
+            "ward_name": "LOPUR"
+          },
+          {
+            "ward_code": "0619",
+            "ward_name": "LETEA"
+          },
+          {
+            "ward_code": "0620",
+            "ward_name": "SONGOT"
+          },
+          {
+            "ward_code": "0621",
+            "ward_name": "KALOBEYEI"
+          },
+          {
+            "ward_code": "0622",
+            "ward_name": "LOKICHOGGIO"
+          },
+          {
+            "ward_code": "0623",
+            "ward_name": "NANAAM"
+          }
+        ]
+      },
+      {
+        "const_code": "125",
+        "const_name": "TURKANA CENTRAL",
+        "wards": [
+          {
+            "ward_code": "0624",
+            "ward_name": "KERIO DELTA"
+          },
+          {
+            "ward_code": "0625",
+            "ward_name": "KANG'ATOTHA"
+          },
+          {
+            "ward_code": "0626",
+            "ward_name": "KALOKOL"
+          },
+          {
+            "ward_code": "0627",
+            "ward_name": "LODWAR TOWNSHIP"
+          },
+          {
+            "ward_code": "0628",
+            "ward_name": "KANAMKEMER"
+          }
+        ]
+      },
+      {
+        "const_code": "126",
+        "const_name": "LOIMA",
+        "wards": [
+          {
+            "ward_code": "0629",
+            "ward_name": "KOTARUK/LOBEI"
+          },
+          {
+            "ward_code": "0630",
+            "ward_name": "TURKWEL"
+          },
+          {
+            "ward_code": "0631",
+            "ward_name": "LOIMA"
+          },
+          {
+            "ward_code": "0632",
+            "ward_name": "LOKIRIAMA/LORENGIPPI"
+          }
+        ]
+      },
+      {
+        "const_code": "127",
+        "const_name": "TURKANA SOUTH",
+        "wards": [
+          {
+            "ward_code": "0633",
+            "ward_name": "KAPUTIR"
+          },
+          {
+            "ward_code": "0634",
+            "ward_name": "KATILU"
+          },
+          {
+            "ward_code": "0635",
+            "ward_name": "LOBOKAT"
+          },
+          {
+            "ward_code": "0636",
+            "ward_name": "KALAPATA"
+          },
+          {
+            "ward_code": "0637",
+            "ward_name": "LOKICHAR"
+          }
+        ]
+      },
+      {
+        "const_code": "128",
+        "const_name": "TURKANA EAST",
+        "wards": [
+          {
+            "ward_code": "0638",
+            "ward_name": "KAPEDO/NAPEITOM"
+          },
+          {
+            "ward_code": "0639",
+            "ward_name": "KATILIA"
+          },
+          {
+            "ward_code": "0640",
+            "ward_name": "LOKORI/KOCHODIN"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "county_code": "024",
+    "county_name": "WEST POKOT",
+    "constituencies": [
+      {
+        "const_code": "129",
+        "const_name": "KAPENGURIA",
+        "wards": [
+          {
+            "ward_code": "0641",
+            "ward_name": "RIWO"
+          },
+          {
+            "ward_code": "0642",
+            "ward_name": "KAPENGURIA"
+          },
+          {
+            "ward_code": "0643",
+            "ward_name": "MNAGEI"
+          },
+          {
+            "ward_code": "0644",
+            "ward_name": "SIYOI"
+          },
+          {
+            "ward_code": "0645",
+            "ward_name": "ENDUGH"
+          },
+          {
+            "ward_code": "0646",
+            "ward_name": "SOOK"
+          }
+        ]
+      },
+      {
+        "const_code": "130",
+        "const_name": "SIGOR",
+        "wards": [
+          {
+            "ward_code": "0647",
+            "ward_name": "SEKERR"
+          },
+          {
+            "ward_code": "0648",
+            "ward_name": "MASOOL"
+          },
+          {
+            "ward_code": "0649",
+            "ward_name": "LOMUT"
+          },
+          {
+            "ward_code": "0650",
+            "ward_name": "WEIWEI"
+          }
+        ]
+      },
+      {
+        "const_code": "131",
+        "const_name": "KACHELIBA",
+        "wards": [
+          {
+            "ward_code": "0651",
+            "ward_name": "SUAM"
+          },
+          {
+            "ward_code": "0652",
+            "ward_name": "KODICH"
+          },
+          {
+            "ward_code": "0653",
+            "ward_name": "KASEI"
+          },
+          {
+            "ward_code": "0654",
+            "ward_name": "KAPCHOK"
+          },
+          {
+            "ward_code": "0655",
+            "ward_name": "KIWAWA"
+          },
+          {
+            "ward_code": "0656",
+            "ward_name": "ALALE"
+          }
+        ]
+      },
+      {
+        "const_code": "132",
+        "const_name": "POKOT SOUTH",
+        "wards": [
+          {
+            "ward_code": "0657",
+            "ward_name": "CHEPARERIA"
+          },
+          {
+            "ward_code": "0658",
+            "ward_name": "BATEI"
+          },
+          {
+            "ward_code": "0659",
+            "ward_name": "LELAN"
+          },
+          {
+            "ward_code": "0660",
+            "ward_name": "TAPACH"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "county_code": "025",
+    "county_name": "SAMBURU",
+    "constituencies": [
+      {
+        "const_code": "133",
+        "const_name": "SAMBURU WEST",
+        "wards": [
+          {
+            "ward_code": "0661",
+            "ward_name": "LODOKEJEK"
+          },
+          {
+            "ward_code": "0662",
+            "ward_name": "SUGUTA MARMAR"
+          },
+          {
+            "ward_code": "0663",
+            "ward_name": "MARALAL"
+          },
+          {
+            "ward_code": "0664",
+            "ward_name": "LOOSUK"
+          },
+          {
+            "ward_code": "0665",
+            "ward_name": "PORO"
+          }
+        ]
+      },
+      {
+        "const_code": "134",
+        "const_name": "SAMBURU NORTH",
+        "wards": [
+          {
+            "ward_code": "0666",
+            "ward_name": "EL-BARTA"
+          },
+          {
+            "ward_code": "0667",
+            "ward_name": "NACHOLA"
+          },
+          {
+            "ward_code": "0668",
+            "ward_name": "NDOTO"
+          },
+          {
+            "ward_code": "0669",
+            "ward_name": "NYIRO"
+          },
+          {
+            "ward_code": "0670",
+            "ward_name": "ANGATA NANYOKIE"
+          },
+          {
+            "ward_code": "0671",
+            "ward_name": "BAAWA"
+          }
+        ]
+      },
+      {
+        "const_code": "135",
+        "const_name": "SAMBURU EAST",
+        "wards": [
+          {
+            "ward_code": "0672",
+            "ward_name": "WASO"
+          },
+          {
+            "ward_code": "0673",
+            "ward_name": "WAMBA WEST"
+          },
+          {
+            "ward_code": "0674",
+            "ward_name": "WAMBA EAST"
+          },
+          {
+            "ward_code": "0675",
+            "ward_name": "WAMBA NORTH"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "county_code": "026",
+    "county_name": "TRANS NZOIA",
+    "constituencies": [
+      {
+        "const_code": "136",
+        "const_name": "KWANZA",
+        "wards": [
+          {
+            "ward_code": "0676",
+            "ward_name": "KAPOMBOI"
+          },
+          {
+            "ward_code": "0677",
+            "ward_name": "KWANZA"
+          },
+          {
+            "ward_code": "0678",
+            "ward_name": "KEIYO"
+          },
+          {
+            "ward_code": "0679",
+            "ward_name": "BIDII"
+          }
+        ]
+      },
+      {
+        "const_code": "137",
+        "const_name": "ENDEBESS",
+        "wards": [
+          {
+            "ward_code": "0680",
+            "ward_name": "CHEPCHOINA"
+          },
+          {
+            "ward_code": "0681",
+            "ward_name": "ENDEBESS"
+          },
+          {
+            "ward_code": "0682",
+            "ward_name": "MATUMBEI"
+          }
+        ]
+      },
+      {
+        "const_code": "138",
+        "const_name": "SABOTI",
+        "wards": [
+          {
+            "ward_code": "0683",
+            "ward_name": "KINYORO"
+          },
+          {
+            "ward_code": "0684",
+            "ward_name": "MATISI"
+          },
+          {
+            "ward_code": "0685",
+            "ward_name": "TUWANI"
+          },
+          {
+            "ward_code": "0686",
+            "ward_name": "SABOTI"
+          },
+          {
+            "ward_code": "0687",
+            "ward_name": "MACHEWA"
+          }
+        ]
+      },
+      {
+        "const_code": "139",
+        "const_name": "KIMININI",
+        "wards": [
+          {
+            "ward_code": "0688",
+            "ward_name": "KIMININI"
+          },
+          {
+            "ward_code": "0689",
+            "ward_name": "WAITALUK"
+          },
+          {
+            "ward_code": "0690",
+            "ward_name": "SIRENDE"
+          },
+          {
+            "ward_code": "0691",
+            "ward_name": "HOSPITAL"
+          },
+          {
+            "ward_code": "0692",
+            "ward_name": "SIKHENDU"
+          },
+          {
+            "ward_code": "0693",
+            "ward_name": "NABISWA"
+          }
+        ]
+      },
+      {
+        "const_code": "140",
+        "const_name": "CHERANGANY",
+        "wards": [
+          {
+            "ward_code": "0694",
+            "ward_name": "SINYERERE"
+          },
+          {
+            "ward_code": "0695",
+            "ward_name": "MAKUTANO"
+          },
+          {
+            "ward_code": "0696",
+            "ward_name": "KAPLAMAI"
+          },
+          {
+            "ward_code": "0697",
+            "ward_name": "MOTOSIET"
+          },
+          {
+            "ward_code": "0698",
+            "ward_name": "CHERANGANY/SUWERWA"
+          },
+          {
+            "ward_code": "0699",
+            "ward_name": "CHEPSIRO/KIPTOROR"
+          },
+          {
+            "ward_code": "0700",
+            "ward_name": "SITATUNGA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "county_code": "027",
+    "county_name": "UASIN GISHU",
+    "constituencies": [
+      {
+        "const_code": "141",
+        "const_name": "SOY",
+        "wards": [
+          {
+            "ward_code": "0701",
+            "ward_name": "MOI'S BRIDGE"
+          },
+          {
+            "ward_code": "0702",
+            "ward_name": "KAPKURES"
+          },
+          {
+            "ward_code": "0703",
+            "ward_name": "ZIWA"
+          },
+          {
+            "ward_code": "0704",
+            "ward_name": "SEGERO/BARSOMBE"
+          },
+          {
+            "ward_code": "0705",
+            "ward_name": "KIPSOMBA"
+          },
+          {
+            "ward_code": "0706",
+            "ward_name": "SOY"
+          },
+          {
+            "ward_code": "0707",
+            "ward_name": "KUINET/KAPSUSWA"
+          }
+        ]
+      },
+      {
+        "const_code": "142",
+        "const_name": "TURBO",
+        "wards": [
+          {
+            "ward_code": "0708",
+            "ward_name": "NGENYILEL"
+          },
+          {
+            "ward_code": "0709",
+            "ward_name": "TAPSAGOI"
+          },
+          {
+            "ward_code": "0710",
+            "ward_name": "KAMAGUT"
+          },
+          {
+            "ward_code": "0711",
+            "ward_name": "KIPLOMBE"
+          },
+          {
+            "ward_code": "0712",
+            "ward_name": "KAPSAOS"
+          },
+          {
+            "ward_code": "0713",
+            "ward_name": "HURUMA"
+          }
+        ]
+      },
+      {
+        "const_code": "143",
+        "const_name": "MOIBEN",
+        "wards": [
+          {
+            "ward_code": "0714",
+            "ward_name": "TEMBELIO"
+          },
+          {
+            "ward_code": "0715",
+            "ward_name": "SERGOIT"
+          },
+          {
+            "ward_code": "0716",
+            "ward_name": "KARUNA/MEIBEKI"
+          },
+          {
+            "ward_code": "0717",
+            "ward_name": "MOIBEN"
+          },
+          {
+            "ward_code": "0718",
+            "ward_name": "KIMUMU"
+          }
+        ]
+      },
+      {
+        "const_code": "144",
+        "const_name": "AINABKOI",
+        "wards": [
+          {
+            "ward_code": "0719",
+            "ward_name": "KAPSOYA"
+          },
+          {
+            "ward_code": "0720",
+            "ward_name": "KAPTAGAT"
+          },
+          {
+            "ward_code": "0721",
+            "ward_name": "AINABKOI/OLARE"
+          }
+        ]
+      },
+      {
+        "const_code": "145",
+        "const_name": "KAPSERET",
+        "wards": [
+          {
+            "ward_code": "0722",
+            "ward_name": "SIMAT/KAPSERET"
+          },
+          {
+            "ward_code": "0723",
+            "ward_name": "KIPKENYO"
+          },
+          {
+            "ward_code": "0724",
+            "ward_name": "NGERIA"
+          },
+          {
+            "ward_code": "0725",
+            "ward_name": "MEGUN"
+          },
+          {
+            "ward_code": "0726",
+            "ward_name": "LANGAS"
+          }
+        ]
+      },
+      {
+        "const_code": "146",
+        "const_name": "KESSES",
+        "wards": [
+          {
+            "ward_code": "0727",
+            "ward_name": "RACECOURSE"
+          },
+          {
+            "ward_code": "0728",
+            "ward_name": "CHEPTIRET/KIPCHAMO"
+          },
+          {
+            "ward_code": "0729",
+            "ward_name": "TULWET/CHUIYAT"
+          },
+          {
+            "ward_code": "0730",
+            "ward_name": "TARAKWA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "county_code": "028",
+    "county_name": "ELGEYO/MARAKWET",
+    "constituencies": [
+      {
+        "const_code": "147",
+        "const_name": "MARAKWET EAST",
+        "wards": [
+          {
+            "ward_code": "0731",
+            "ward_name": "KAPYEGO"
+          },
+          {
+            "ward_code": "0732",
+            "ward_name": "SAMBIRIR"
+          },
+          {
+            "ward_code": "0733",
+            "ward_name": "ENDO"
+          },
+          {
+            "ward_code": "0734",
+            "ward_name": "EMBOBUT / EMBULOT"
+          }
+        ]
+      },
+      {
+        "const_code": "148",
+        "const_name": "MARAKWET WEST",
+        "wards": [
+          {
+            "ward_code": "0735",
+            "ward_name": "LELAN"
+          },
+          {
+            "ward_code": "0736",
+            "ward_name": "SENGWER"
+          },
+          {
+            "ward_code": "0737",
+            "ward_name": "CHERANG'ANY/CHEBORORWA"
+          },
+          {
+            "ward_code": "0738",
+            "ward_name": "MOIBEN/KUSERWO"
+          },
+          {
+            "ward_code": "0739",
+            "ward_name": "KAPSOWAR"
+          },
+          {
+            "ward_code": "0740",
+            "ward_name": "ARROR"
+          }
+        ]
+      },
+      {
+        "const_code": "149",
+        "const_name": "KEIYO NORTH",
+        "wards": [
+          {
+            "ward_code": "0741",
+            "ward_name": "EMSOO"
+          },
+          {
+            "ward_code": "0742",
+            "ward_name": "KAMARINY"
+          },
+          {
+            "ward_code": "0743",
+            "ward_name": "KAPCHEMUTWA"
+          },
+          {
+            "ward_code": "0744",
+            "ward_name": "TAMBACH"
+          }
+        ]
+      },
+      {
+        "const_code": "150",
+        "const_name": "KEIYO SOUTH",
+        "wards": [
+          {
+            "ward_code": "0745",
+            "ward_name": "KAPTARAKWA"
+          },
+          {
+            "ward_code": "0746",
+            "ward_name": "CHEPKORIO"
+          },
+          {
+            "ward_code": "0747",
+            "ward_name": "SOY NORTH"
+          },
+          {
+            "ward_code": "0748",
+            "ward_name": "SOY SOUTH"
+          },
+          {
+            "ward_code": "0749",
+            "ward_name": "KABIEMIT"
+          },
+          {
+            "ward_code": "0750",
+            "ward_name": "METKEI"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "county_code": "029",
+    "county_name": "NANDI",
+    "constituencies": [
+      {
+        "const_code": "151",
+        "const_name": "TINDERET",
+        "wards": [
+          {
+            "ward_code": "0751",
+            "ward_name": "SONGHOR/SOBA"
+          },
+          {
+            "ward_code": "0752",
+            "ward_name": "TINDIRET"
+          },
+          {
+            "ward_code": "0753",
+            "ward_name": "CHEMELIL/CHEMASE"
+          },
+          {
+            "ward_code": "0754",
+            "ward_name": "KAPSIMOTWO"
+          }
+        ]
+      },
+      {
+        "const_code": "152",
+        "const_name": "ALDAI",
+        "wards": [
+          {
+            "ward_code": "0755",
+            "ward_name": "KABWARENG"
+          },
+          {
+            "ward_code": "0756",
+            "ward_name": "TERIK"
+          },
+          {
+            "ward_code": "0757",
+            "ward_name": "KEMELOI-MARABA"
+          },
+          {
+            "ward_code": "0758",
+            "ward_name": "KOBUJOI"
+          },
+          {
+            "ward_code": "0759",
+            "ward_name": "KAPTUMO-KABOI"
+          },
+          {
+            "ward_code": "0760",
+            "ward_name": "KOYO-NDURIO"
+          }
+        ]
+      },
+      {
+        "const_code": "153",
+        "const_name": "NANDI HILLS",
+        "wards": [
+          {
+            "ward_code": "0761",
+            "ward_name": "NANDI HILLS"
+          },
+          {
+            "ward_code": "0762",
+            "ward_name": "CHEPKUNYUK"
+          },
+          {
+            "ward_code": "0763",
+            "ward_name": "OL'LESSOS"
+          },
+          {
+            "ward_code": "0764",
+            "ward_name": "KAPCHORUA"
+          }
+        ]
+      },
+      {
+        "const_code": "154",
+        "const_name": "CHESUMEI",
+        "wards": [
+          {
+            "ward_code": "0765",
+            "ward_name": "CHEMUNDU/KAPNG'ETUNY"
+          },
+          {
+            "ward_code": "0766",
+            "ward_name": "KOSIRAI"
+          },
+          {
+            "ward_code": "0767",
+            "ward_name": "LELMOKWO/NGECHEK"
+          },
+          {
+            "ward_code": "0768",
+            "ward_name": "KAPTEL/KAMOIYWO"
+          },
+          {
+            "ward_code": "0769",
+            "ward_name": "KIPTUYA"
+          }
+        ]
+      },
+      {
+        "const_code": "155",
+        "const_name": "EMGWEN",
+        "wards": [
+          {
+            "ward_code": "0770",
+            "ward_name": "CHEPKUMIA"
+          },
+          {
+            "ward_code": "0771",
+            "ward_name": "KAPKANGANI"
+          },
+          {
+            "ward_code": "0772",
+            "ward_name": "KAPSABET"
+          },
+          {
+            "ward_code": "0773",
+            "ward_name": "KILIBWONI"
+          }
+        ]
+      },
+      {
+        "const_code": "156",
+        "const_name": "MOSOP",
+        "wards": [
+          {
+            "ward_code": "0774",
+            "ward_name": "CHEPTERWAI"
+          },
+          {
+            "ward_code": "0775",
+            "ward_name": "KIPKAREN"
+          },
+          {
+            "ward_code": "0776",
+            "ward_name": "KURGUNG/SURUNGAI"
+          },
+          {
+            "ward_code": "0777",
+            "ward_name": "KABIYET"
+          },
+          {
+            "ward_code": "0778",
+            "ward_name": "NDALAT"
+          },
+          {
+            "ward_code": "0779",
+            "ward_name": "KABISAGA"
+          },
+          {
+            "ward_code": "0780",
+            "ward_name": "SANGALO/KEBULONIK"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "county_code": "030",
+    "county_name": "BARINGO",
+    "constituencies": [
+      {
+        "const_code": "157",
+        "const_name": "TIATY",
+        "wards": [
+          {
+            "ward_code": "0781",
+            "ward_name": "TIRIOKO"
+          },
+          {
+            "ward_code": "0782",
+            "ward_name": "KOLOWA"
+          },
+          {
+            "ward_code": "0783",
+            "ward_name": "RIBKWO"
+          },
+          {
+            "ward_code": "0784",
+            "ward_name": "SILALE"
+          },
+          {
+            "ward_code": "0785",
+            "ward_name": "LOIYAMOROCK"
+          },
+          {
+            "ward_code": "0786",
+            "ward_name": "TANGULBEI/KOROSSI"
+          },
+          {
+            "ward_code": "0787",
+            "ward_name": "CHURO/AMAYA"
+          }
+        ]
+      },
+      {
+        "const_code": "158",
+        "const_name": "BARINGO  NORTH",
+        "wards": [
+          {
+            "ward_code": "0788",
+            "ward_name": "BARWESSA"
+          },
+          {
+            "ward_code": "0789",
+            "ward_name": "KABARTONJO"
+          },
+          {
+            "ward_code": "0790",
+            "ward_name": "SAIMO/KIPSARAMAN"
+          },
+          {
+            "ward_code": "0791",
+            "ward_name": "SAIMO/SOI"
+          },
+          {
+            "ward_code": "0792",
+            "ward_name": "BARTABWA"
+          }
+        ]
+      },
+      {
+        "const_code": "159",
+        "const_name": "BARINGO CENTRAL",
+        "wards": [
+          {
+            "ward_code": "0793",
+            "ward_name": "KABARNET"
+          },
+          {
+            "ward_code": "0794",
+            "ward_name": "SACHO"
+          },
+          {
+            "ward_code": "0795",
+            "ward_name": "TENGES"
+          },
+          {
+            "ward_code": "0796",
+            "ward_name": "EWALEL/CHAPCHAP"
+          },
+          {
+            "ward_code": "0797",
+            "ward_name": "KAPROPITA"
+          }
+        ]
+      },
+      {
+        "const_code": "160",
+        "const_name": "BARINGO SOUTH",
+        "wards": [
+          {
+            "ward_code": "0798",
+            "ward_name": "MARIGAT"
+          },
+          {
+            "ward_code": "0799",
+            "ward_name": "ILCHAMUS"
+          },
+          {
+            "ward_code": "0800",
+            "ward_name": "MOCHONGOI"
+          },
+          {
+            "ward_code": "0801",
+            "ward_name": "MUKUTANI"
+          }
+        ]
+      },
+      {
+        "const_code": "161",
+        "const_name": "MOGOTIO",
+        "wards": [
+          {
+            "ward_code": "0802",
+            "ward_name": "MOGOTIO"
+          },
+          {
+            "ward_code": "0803",
+            "ward_name": "EMINING"
+          },
+          {
+            "ward_code": "0804",
+            "ward_name": "KISANANA"
+          }
+        ]
+      },
+      {
+        "const_code": "162",
+        "const_name": "ELDAMA RAVINE",
+        "wards": [
+          {
+            "ward_code": "0805",
+            "ward_name": "LEMBUS"
+          },
+          {
+            "ward_code": "0806",
+            "ward_name": "LEMBUS KWEN"
+          },
+          {
+            "ward_code": "0807",
+            "ward_name": "RAVINE"
+          },
+          {
+            "ward_code": "0808",
+            "ward_name": "MUMBERES/MAJI MAZURI"
+          },
+          {
+            "ward_code": "0809",
+            "ward_name": "LEMBUS/PERKERRA"
+          },
+          {
+            "ward_code": "0810",
+            "ward_name": "KOIBATEK"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "county_code": "031",
+    "county_name": "LAIKIPIA",
+    "constituencies": [
+      {
+        "const_code": "163",
+        "const_name": "LAIKIPIA WEST",
+        "wards": [
+          {
+            "ward_code": "0811",
+            "ward_name": "OL-MORAN"
+          },
+          {
+            "ward_code": "0812",
+            "ward_name": "RUMURUTI TOWNSHIP"
+          },
+          {
+            "ward_code": "0813",
+            "ward_name": "GITHIGA"
+          },
+          {
+            "ward_code": "0814",
+            "ward_name": "MARMANET"
+          },
+          {
+            "ward_code": "0815",
+            "ward_name": "IGWAMITI"
+          },
+          {
+            "ward_code": "0816",
+            "ward_name": "SALAMA"
+          }
+        ]
+      },
+      {
+        "const_code": "164",
+        "const_name": "LAIKIPIA EAST",
+        "wards": [
+          {
+            "ward_code": "0817",
+            "ward_name": "NGOBIT"
+          },
+          {
+            "ward_code": "0818",
+            "ward_name": "TIGITHI"
+          },
+          {
+            "ward_code": "0819",
+            "ward_name": "THINGITHU"
+          },
+          {
+            "ward_code": "0820",
+            "ward_name": "NANYUKI"
+          },
+          {
+            "ward_code": "0821",
+            "ward_name": "UMANDE"
+          }
+        ]
+      },
+      {
+        "const_code": "165",
+        "const_name": "LAIKIPIA NORTH",
+        "wards": [
+          {
+            "ward_code": "0822",
+            "ward_name": "SOSIAN"
+          },
+          {
+            "ward_code": "0823",
+            "ward_name": "SEGERA"
+          },
+          {
+            "ward_code": "0824",
+            "ward_name": "MUGOGODO WEST"
+          },
+          {
+            "ward_code": "0825",
+            "ward_name": "MUGOGODO EAST"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "county_code": "032",
+    "county_name": "NAKURU",
+    "constituencies": [
+      {
+        "const_code": "166",
+        "const_name": "MOLO",
+        "wards": [
+          {
+            "ward_code": "0826",
+            "ward_name": "MARIASHONI"
+          },
+          {
+            "ward_code": "0827",
+            "ward_name": "ELBURGON"
+          },
+          {
+            "ward_code": "0828",
+            "ward_name": "TURI"
+          },
+          {
+            "ward_code": "0829",
+            "ward_name": "MOLO"
+          }
+        ]
+      },
+      {
+        "const_code": "167",
+        "const_name": "NJORO",
+        "wards": [
+          {
+            "ward_code": "0830",
+            "ward_name": "MAU NAROK"
+          },
+          {
+            "ward_code": "0831",
+            "ward_name": "MAUCHE"
+          },
+          {
+            "ward_code": "0832",
+            "ward_name": "KIHINGO"
+          },
+          {
+            "ward_code": "0833",
+            "ward_name": "NESSUIT"
+          },
+          {
+            "ward_code": "0834",
+            "ward_name": "LARE"
+          },
+          {
+            "ward_code": "0835",
+            "ward_name": "NJORO"
+          }
+        ]
+      },
+      {
+        "const_code": "168",
+        "const_name": "NAIVASHA",
+        "wards": [
+          {
+            "ward_code": "0836",
+            "ward_name": "BIASHARA"
+          },
+          {
+            "ward_code": "0837",
+            "ward_name": "HELLS GATE"
+          },
+          {
+            "ward_code": "0838",
+            "ward_name": "LAKE VIEW"
+          },
+          {
+            "ward_code": "0839",
+            "ward_name": "MAI MAHIU"
+          },
+          {
+            "ward_code": "0840",
+            "ward_name": "MAIELLA"
+          },
+          {
+            "ward_code": "0841",
+            "ward_name": "OLKARIA"
+          },
+          {
+            "ward_code": "0842",
+            "ward_name": "NAIVASHA EAST"
+          },
+          {
+            "ward_code": "0843",
+            "ward_name": "VIWANDANI"
+          }
+        ]
+      },
+      {
+        "const_code": "169",
+        "const_name": "GILGIL",
+        "wards": [
+          {
+            "ward_code": "0844",
+            "ward_name": "GILGIL"
+          },
+          {
+            "ward_code": "0845",
+            "ward_name": "ELEMENTAITA"
+          },
+          {
+            "ward_code": "0846",
+            "ward_name": "MBARUK/EBURU"
+          },
+          {
+            "ward_code": "0847",
+            "ward_name": "MALEWA WEST"
+          },
+          {
+            "ward_code": "0848",
+            "ward_name": "MURINDATI"
+          }
+        ]
+      },
+      {
+        "const_code": "170",
+        "const_name": "KURESOI SOUTH",
+        "wards": [
+          {
+            "ward_code": "0849",
+            "ward_name": "AMALO"
+          },
+          {
+            "ward_code": "0850",
+            "ward_name": "KERINGET"
+          },
+          {
+            "ward_code": "0851",
+            "ward_name": "KIPTAGICH"
+          },
+          {
+            "ward_code": "0852",
+            "ward_name": "TINET"
+          }
+        ]
+      },
+      {
+        "const_code": "171",
+        "const_name": "KURESOI NORTH",
+        "wards": [
+          {
+            "ward_code": "0853",
+            "ward_name": "KIPTORORO"
+          },
+          {
+            "ward_code": "0854",
+            "ward_name": "NYOTA"
+          },
+          {
+            "ward_code": "0855",
+            "ward_name": "SIRIKWA"
+          },
+          {
+            "ward_code": "0856",
+            "ward_name": "KAMARA"
+          }
+        ]
+      },
+      {
+        "const_code": "172",
+        "const_name": "SUBUKIA",
+        "wards": [
+          {
+            "ward_code": "0857",
+            "ward_name": "SUBUKIA"
+          },
+          {
+            "ward_code": "0858",
+            "ward_name": "WASEGES"
+          },
+          {
+            "ward_code": "0859",
+            "ward_name": "KABAZI"
+          }
+        ]
+      },
+      {
+        "const_code": "173",
+        "const_name": "RONGAI",
+        "wards": [
+          {
+            "ward_code": "0860",
+            "ward_name": "MENENGAI WEST"
+          },
+          {
+            "ward_code": "0861",
+            "ward_name": "SOIN"
+          },
+          {
+            "ward_code": "0862",
+            "ward_name": "VISOI"
+          },
+          {
+            "ward_code": "0863",
+            "ward_name": "MOSOP"
+          },
+          {
+            "ward_code": "0864",
+            "ward_name": "SOLAI"
+          }
+        ]
+      },
+      {
+        "const_code": "174",
+        "const_name": "BAHATI",
+        "wards": [
+          {
+            "ward_code": "0865",
+            "ward_name": "DUNDORI"
+          },
+          {
+            "ward_code": "0866",
+            "ward_name": "KABATINI"
+          },
+          {
+            "ward_code": "0867",
+            "ward_name": "KIAMAINA"
+          },
+          {
+            "ward_code": "0868",
+            "ward_name": "LANET/UMOJA"
+          },
+          {
+            "ward_code": "0869",
+            "ward_name": "BAHATI"
+          }
+        ]
+      },
+      {
+        "const_code": "175",
+        "const_name": "NAKURU TOWN WEST",
+        "wards": [
+          {
+            "ward_code": "0870",
+            "ward_name": "BARUT"
+          },
+          {
+            "ward_code": "0871",
+            "ward_name": "LONDON"
+          },
+          {
+            "ward_code": "0872",
+            "ward_name": "KAPTEMBWO"
+          },
+          {
+            "ward_code": "0873",
+            "ward_name": "KAPKURES"
+          },
+          {
+            "ward_code": "0874",
+            "ward_name": "RHODA"
+          },
+          {
+            "ward_code": "0875",
+            "ward_name": "SHAABAB"
+          }
+        ]
+      },
+      {
+        "const_code": "176",
+        "const_name": "NAKURU TOWN EAST",
+        "wards": [
+          {
+            "ward_code": "0876",
+            "ward_name": "BIASHARA"
+          },
+          {
+            "ward_code": "0877",
+            "ward_name": "KIVUMBINI"
+          },
+          {
+            "ward_code": "0878",
+            "ward_name": "FLAMINGO"
+          },
+          {
+            "ward_code": "0879",
+            "ward_name": "MENENGAI"
+          },
+          {
+            "ward_code": "0880",
+            "ward_name": "NAKURU EAST"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "county_code": "033",
+    "county_name": "NAROK",
+    "constituencies": [
+      {
+        "const_code": "177",
+        "const_name": "KILGORIS",
+        "wards": [
+          {
+            "ward_code": "0881",
+            "ward_name": "KILGORIS CENTRAL"
+          },
+          {
+            "ward_code": "0882",
+            "ward_name": "KEYIAN"
+          },
+          {
+            "ward_code": "0883",
+            "ward_name": "ANGATA BARIKOI"
+          },
+          {
+            "ward_code": "0884",
+            "ward_name": "SHANKOE"
+          },
+          {
+            "ward_code": "0885",
+            "ward_name": "KIMINTET"
+          },
+          {
+            "ward_code": "0886",
+            "ward_name": "LOLGORIAN"
+          }
+        ]
+      },
+      {
+        "const_code": "178",
+        "const_name": "EMURUA DIKIRR",
+        "wards": [
+          {
+            "ward_code": "0887",
+            "ward_name": "ILKERIN"
+          },
+          {
+            "ward_code": "0888",
+            "ward_name": "OLOlMASANI"
+          },
+          {
+            "ward_code": "0889",
+            "ward_name": "MOGONDO"
+          },
+          {
+            "ward_code": "0890",
+            "ward_name": "KAPSASIAN"
+          }
+        ]
+      },
+      {
+        "const_code": "179",
+        "const_name": "NAROK NORTH",
+        "wards": [
+          {
+            "ward_code": "0891",
+            "ward_name": "OLPUSIMORU"
+          },
+          {
+            "ward_code": "0892",
+            "ward_name": "OLOKURTO"
+          },
+          {
+            "ward_code": "0893",
+            "ward_name": "NAROK TOWN"
+          },
+          {
+            "ward_code": "0894",
+            "ward_name": "NKARETA"
+          },
+          {
+            "ward_code": "0895",
+            "ward_name": "OLORROPIL"
+          },
+          {
+            "ward_code": "0896",
+            "ward_name": "MELILI"
+          }
+        ]
+      },
+      {
+        "const_code": "180",
+        "const_name": "NAROK EAST",
+        "wards": [
+          {
+            "ward_code": "0897",
+            "ward_name": "MOSIRO"
+          },
+          {
+            "ward_code": "0898",
+            "ward_name": "ILDAMAT"
+          },
+          {
+            "ward_code": "0899",
+            "ward_name": "KEEKONYOKIE"
+          },
+          {
+            "ward_code": "0900",
+            "ward_name": "SUSWA"
+          }
+        ]
+      },
+      {
+        "const_code": "181",
+        "const_name": "NAROK SOUTH",
+        "wards": [
+          {
+            "ward_code": "0901",
+            "ward_name": "MAJIMOTO/NAROOSURA"
+          },
+          {
+            "ward_code": "0902",
+            "ward_name": "OLOLULUNG'A"
+          },
+          {
+            "ward_code": "0903",
+            "ward_name": "MELELO"
+          },
+          {
+            "ward_code": "0904",
+            "ward_name": "LOITA"
+          },
+          {
+            "ward_code": "0905",
+            "ward_name": "SOGOO"
+          },
+          {
+            "ward_code": "0906",
+            "ward_name": "SAGAMIAN"
+          }
+        ]
+      },
+      {
+        "const_code": "182",
+        "const_name": "NAROK WEST",
+        "wards": [
+          {
+            "ward_code": "0907",
+            "ward_name": "ILMOTIOK"
+          },
+          {
+            "ward_code": "0908",
+            "ward_name": "MARA"
+          },
+          {
+            "ward_code": "0909",
+            "ward_name": "SIANA"
+          },
+          {
+            "ward_code": "0910",
+            "ward_name": "NAIKARRA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "county_code": "034",
+    "county_name": "KAJIADO",
+    "constituencies": [
+      {
+        "const_code": "183",
+        "const_name": "KAJIADO NORTH",
+        "wards": [
+          {
+            "ward_code": "0911",
+            "ward_name": "OLKERI"
+          },
+          {
+            "ward_code": "0912",
+            "ward_name": "ONGATA RONGAI"
+          },
+          {
+            "ward_code": "0913",
+            "ward_name": "NKAIMURUNYA"
+          },
+          {
+            "ward_code": "0914",
+            "ward_name": "OLOOLUA"
+          },
+          {
+            "ward_code": "0915",
+            "ward_name": "NGONG"
+          }
+        ]
+      },
+      {
+        "const_code": "184",
+        "const_name": "KAJIADO CENTRAL",
+        "wards": [
+          {
+            "ward_code": "0916",
+            "ward_name": "PURKO"
+          },
+          {
+            "ward_code": "0917",
+            "ward_name": "ILDAMAT"
+          },
+          {
+            "ward_code": "0918",
+            "ward_name": "DALALEKUTUK"
+          },
+          {
+            "ward_code": "0919",
+            "ward_name": "MATAPATO NORTH"
+          },
+          {
+            "ward_code": "0920",
+            "ward_name": "MATAPATO SOUTH"
+          }
+        ]
+      },
+      {
+        "const_code": "185",
+        "const_name": "KAJIADO EAST",
+        "wards": [
+          {
+            "ward_code": "0921",
+            "ward_name": "KAPUTIEI NORTH"
+          },
+          {
+            "ward_code": "0922",
+            "ward_name": "KITENGELA"
+          },
+          {
+            "ward_code": "0923",
+            "ward_name": "OLOOSIRKON/SHOLINKE"
+          },
+          {
+            "ward_code": "0924",
+            "ward_name": "KENYAWA-POKA"
+          },
+          {
+            "ward_code": "0925",
+            "ward_name": "IMARORO"
+          }
+        ]
+      },
+      {
+        "const_code": "186",
+        "const_name": "KAJIADO WEST",
+        "wards": [
+          {
+            "ward_code": "0926",
+            "ward_name": "KEEKONYOKIE"
+          },
+          {
+            "ward_code": "0927",
+            "ward_name": "ILOODOKILANI"
+          },
+          {
+            "ward_code": "0928",
+            "ward_name": "MAGADI"
+          },
+          {
+            "ward_code": "0929",
+            "ward_name": "EWUASO OoNKIDONG'I"
+          },
+          {
+            "ward_code": "0930",
+            "ward_name": "MOSIRO"
+          }
+        ]
+      },
+      {
+        "const_code": "187",
+        "const_name": "KAJIADO SOUTH",
+        "wards": [
+          {
+            "ward_code": "0931",
+            "ward_name": "ENTONET/LENKISIM"
+          },
+          {
+            "ward_code": "0932",
+            "ward_name": "MBIRIKANI/ESELENKEI"
+          },
+          {
+            "ward_code": "0933",
+            "ward_name": "KUKU"
+          },
+          {
+            "ward_code": "0934",
+            "ward_name": "ROMBO"
+          },
+          {
+            "ward_code": "0935",
+            "ward_name": "KIMANA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "county_code": "035",
+    "county_name": "KERICHO",
+    "constituencies": [
+      {
+        "const_code": "188",
+        "const_name": "KIPKELION EAST",
+        "wards": [
+          {
+            "ward_code": "0936",
+            "ward_name": "LONDIANI"
+          },
+          {
+            "ward_code": "0937",
+            "ward_name": "KEDOWA/KIMUGUL"
+          },
+          {
+            "ward_code": "0938",
+            "ward_name": "CHEPSEON"
+          },
+          {
+            "ward_code": "0939",
+            "ward_name": "TENDENO/SORGET"
+          }
+        ]
+      },
+      {
+        "const_code": "189",
+        "const_name": "KIPKELION WEST",
+        "wards": [
+          {
+            "ward_code": "0940",
+            "ward_name": "KUNYAK"
+          },
+          {
+            "ward_code": "0941",
+            "ward_name": "KAMASIAN"
+          },
+          {
+            "ward_code": "0942",
+            "ward_name": "KIPKELION"
+          },
+          {
+            "ward_code": "0943",
+            "ward_name": "CHILCHILA"
+          }
+        ]
+      },
+      {
+        "const_code": "190",
+        "const_name": "AINAMOI",
+        "wards": [
+          {
+            "ward_code": "0944",
+            "ward_name": "KAPSOIT"
+          },
+          {
+            "ward_code": "0945",
+            "ward_name": "AINAMOI"
+          },
+          {
+            "ward_code": "0946",
+            "ward_name": "KAPKUGERWET"
+          },
+          {
+            "ward_code": "0947",
+            "ward_name": "KIPCHEBOR"
+          },
+          {
+            "ward_code": "0948",
+            "ward_name": "KIPCHIMCHIM"
+          },
+          {
+            "ward_code": "0949",
+            "ward_name": "KAPSAOS"
+          }
+        ]
+      },
+      {
+        "const_code": "191",
+        "const_name": "BURETI",
+        "wards": [
+          {
+            "ward_code": "0950",
+            "ward_name": "KISIARA"
+          },
+          {
+            "ward_code": "0951",
+            "ward_name": "TEBESONIK"
+          },
+          {
+            "ward_code": "0952",
+            "ward_name": "CHEBOIN"
+          },
+          {
+            "ward_code": "0953",
+            "ward_name": "CHEMOSOT"
+          },
+          {
+            "ward_code": "0954",
+            "ward_name": "LITEIN"
+          },
+          {
+            "ward_code": "0955",
+            "ward_name": "CHEPLANGET"
+          },
+          {
+            "ward_code": "0956",
+            "ward_name": "KAPKATET"
+          }
+        ]
+      },
+      {
+        "const_code": "192",
+        "const_name": "BELGUT",
+        "wards": [
+          {
+            "ward_code": "0957",
+            "ward_name": "WALDAI"
+          },
+          {
+            "ward_code": "0958",
+            "ward_name": "KABIANGA"
+          },
+          {
+            "ward_code": "0959",
+            "ward_name": "CHEPTORORIET/SERETUT"
+          },
+          {
+            "ward_code": "0960",
+            "ward_name": "CHAIK"
+          },
+          {
+            "ward_code": "0961",
+            "ward_name": "KAPSUSER"
+          }
+        ]
+      },
+      {
+        "const_code": "193",
+        "const_name": "SIGOWET/SOIN",
+        "wards": [
+          {
+            "ward_code": "0962",
+            "ward_name": "SIGOWET"
+          },
+          {
+            "ward_code": "0963",
+            "ward_name": "KAPLELARTET"
+          },
+          {
+            "ward_code": "0964",
+            "ward_name": "SOLIAT"
+          },
+          {
+            "ward_code": "0965",
+            "ward_name": "SOIN"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "county_code": "036",
+    "county_name": "BOMET",
+    "constituencies": [
+      {
+        "const_code": "194",
+        "const_name": "SOTIK",
+        "wards": [
+          {
+            "ward_code": "0966",
+            "ward_name": "NDANAI/ABOSI"
+          },
+          {
+            "ward_code": "0967",
+            "ward_name": "CHEMAGEL"
+          },
+          {
+            "ward_code": "0968",
+            "ward_name": "KIPSONOI"
+          },
+          {
+            "ward_code": "0969",
+            "ward_name": "KAPLETUNDO"
+          },
+          {
+            "ward_code": "0970",
+            "ward_name": "RONGENA/MANARET"
+          }
+        ]
+      },
+      {
+        "const_code": "195",
+        "const_name": "CHEPALUNGU",
+        "wards": [
+          {
+            "ward_code": "0971",
+            "ward_name": "KONG'ASIS"
+          },
+          {
+            "ward_code": "0972",
+            "ward_name": "NYANGORES"
+          },
+          {
+            "ward_code": "0973",
+            "ward_name": "SIGOR"
+          },
+          {
+            "ward_code": "0974",
+            "ward_name": "CHEBUNYO"
+          },
+          {
+            "ward_code": "0975",
+            "ward_name": "SIONGIROI"
+          }
+        ]
+      },
+      {
+        "const_code": "196",
+        "const_name": "BOMET EAST",
+        "wards": [
+          {
+            "ward_code": "0976",
+            "ward_name": "MERIGI"
+          },
+          {
+            "ward_code": "0977",
+            "ward_name": "KEMBU"
+          },
+          {
+            "ward_code": "0978",
+            "ward_name": "LONGISA"
+          },
+          {
+            "ward_code": "0979",
+            "ward_name": "KIPRERES"
+          },
+          {
+            "ward_code": "0980",
+            "ward_name": "CHEMANER"
+          }
+        ]
+      },
+      {
+        "const_code": "197",
+        "const_name": "BOMET CENTRAL",
+        "wards": [
+          {
+            "ward_code": "0981",
+            "ward_name": "SILIBWET TOWNSHIP"
+          },
+          {
+            "ward_code": "0982",
+            "ward_name": "NDARAWETA"
+          },
+          {
+            "ward_code": "0983",
+            "ward_name": "SINGORWET"
+          },
+          {
+            "ward_code": "0984",
+            "ward_name": "CHESOEN"
+          },
+          {
+            "ward_code": "0985",
+            "ward_name": "MUTARAKWA"
+          }
+        ]
+      },
+      {
+        "const_code": "198",
+        "const_name": "KONOIN",
+        "wards": [
+          {
+            "ward_code": "0986",
+            "ward_name": "CHEPCHABAS"
+          },
+          {
+            "ward_code": "0987",
+            "ward_name": "KIMULOT"
+          },
+          {
+            "ward_code": "0988",
+            "ward_name": "MOGOGOSIEK"
+          },
+          {
+            "ward_code": "0989",
+            "ward_name": "BOITO"
+          },
+          {
+            "ward_code": "0990",
+            "ward_name": "EMBOMOS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "county_code": "037",
+    "county_name": "KAKAMEGA",
+    "constituencies": [
+      {
+        "const_code": "199",
+        "const_name": "LUGARI",
+        "wards": [
+          {
+            "ward_code": "0991",
+            "ward_name": "MAUTUMA"
+          },
+          {
+            "ward_code": "0992",
+            "ward_name": "LUGARI"
+          },
+          {
+            "ward_code": "0993",
+            "ward_name": "LUMAKANDA"
+          },
+          {
+            "ward_code": "0994",
+            "ward_name": "CHEKALINI"
+          },
+          {
+            "ward_code": "0995",
+            "ward_name": "CHEVAYWA"
+          },
+          {
+            "ward_code": "0996",
+            "ward_name": "LWANDETI"
+          }
+        ]
+      },
+      {
+        "const_code": "200",
+        "const_name": "LIKUYANI",
+        "wards": [
+          {
+            "ward_code": "0997",
+            "ward_name": "LIKUYANI"
+          },
+          {
+            "ward_code": "0998",
+            "ward_name": "SANGO"
+          },
+          {
+            "ward_code": "0999",
+            "ward_name": "KONGONI"
+          },
+          {
+            "ward_code": "1000",
+            "ward_name": "NZOIA"
+          },
+          {
+            "ward_code": "1001",
+            "ward_name": "SINOKO"
+          }
+        ]
+      },
+      {
+        "const_code": "201",
+        "const_name": "MALAVA",
+        "wards": [
+          {
+            "ward_code": "1002",
+            "ward_name": "WEST KABRAS"
+          },
+          {
+            "ward_code": "1003",
+            "ward_name": "CHEMUCHE"
+          },
+          {
+            "ward_code": "1004",
+            "ward_name": "EAST KABRAS"
+          },
+          {
+            "ward_code": "1005",
+            "ward_name": "BUTALI/CHEGULO"
+          },
+          {
+            "ward_code": "1006",
+            "ward_name": "MANDA-SHIVANGA"
+          },
+          {
+            "ward_code": "1007",
+            "ward_name": "SHIRUGU-MUGAI"
+          },
+          {
+            "ward_code": "1008",
+            "ward_name": "SOUTH KABRAS"
+          }
+        ]
+      },
+      {
+        "const_code": "202",
+        "const_name": "LURAMBI",
+        "wards": [
+          {
+            "ward_code": "1009",
+            "ward_name": "BUTSOTSO EAST"
+          },
+          {
+            "ward_code": "1010",
+            "ward_name": "BUTSOTSO SOUTH"
+          },
+          {
+            "ward_code": "1011",
+            "ward_name": "BUTSOTSO CENTRAL"
+          },
+          {
+            "ward_code": "1012",
+            "ward_name": "SHEYWE"
+          },
+          {
+            "ward_code": "1013",
+            "ward_name": "MAHIAKALO"
+          },
+          {
+            "ward_code": "1014",
+            "ward_name": "SHIRERE"
+          }
+        ]
+      },
+      {
+        "const_code": "203",
+        "const_name": "NAVAKHOLO",
+        "wards": [
+          {
+            "ward_code": "1015",
+            "ward_name": "INGOSTSE-MATHIA"
+          },
+          {
+            "ward_code": "1016",
+            "ward_name": "SHINOYI-SHIKOMARI-ESUMEYIA"
+          },
+          {
+            "ward_code": "1017",
+            "ward_name": "BUNYALA WEST"
+          },
+          {
+            "ward_code": "1018",
+            "ward_name": "BUNYALA EAST"
+          },
+          {
+            "ward_code": "1019",
+            "ward_name": "BUNYALA CENTRAL"
+          }
+        ]
+      },
+      {
+        "const_code": "204",
+        "const_name": "MUMIAS WEST",
+        "wards": [
+          {
+            "ward_code": "1020",
+            "ward_name": "MUMIAS CENTRAL"
+          },
+          {
+            "ward_code": "1021",
+            "ward_name": "MUMIAS NORTH"
+          },
+          {
+            "ward_code": "1022",
+            "ward_name": "ETENJE"
+          },
+          {
+            "ward_code": "1023",
+            "ward_name": "MUSANDA"
+          }
+        ]
+      },
+      {
+        "const_code": "205",
+        "const_name": "MUMIAS EAST",
+        "wards": [
+          {
+            "ward_code": "1024",
+            "ward_name": "LUSHEYA/LUBINU"
+          },
+          {
+            "ward_code": "1025",
+            "ward_name": "MALAHA/ISONGO/MAKUNGA"
+          },
+          {
+            "ward_code": "1026",
+            "ward_name": "EAST WANGA"
+          }
+        ]
+      },
+      {
+        "const_code": "206",
+        "const_name": "MATUNGU",
+        "wards": [
+          {
+            "ward_code": "1027",
+            "ward_name": "KOYONZO"
+          },
+          {
+            "ward_code": "1028",
+            "ward_name": "KHOLERA"
+          },
+          {
+            "ward_code": "1029",
+            "ward_name": "KHALABA"
+          },
+          {
+            "ward_code": "1030",
+            "ward_name": "MAYONI"
+          },
+          {
+            "ward_code": "1031",
+            "ward_name": "NAMAMALI"
+          }
+        ]
+      },
+      {
+        "const_code": "207",
+        "const_name": "BUTERE",
+        "wards": [
+          {
+            "ward_code": "1032",
+            "ward_name": "MARAMA WEST"
+          },
+          {
+            "ward_code": "1033",
+            "ward_name": "MARAMA CENTRAL"
+          },
+          {
+            "ward_code": "1034",
+            "ward_name": "MARENYO - SHIANDA"
+          },
+          {
+            "ward_code": "1035",
+            "ward_name": "MARAMA NORTH"
+          },
+          {
+            "ward_code": "1036",
+            "ward_name": "MARAMA SOUTH"
+          }
+        ]
+      },
+      {
+        "const_code": "208",
+        "const_name": "KHWISERO",
+        "wards": [
+          {
+            "ward_code": "1037",
+            "ward_name": "KISA NORTH"
+          },
+          {
+            "ward_code": "1038",
+            "ward_name": "KISA EAST"
+          },
+          {
+            "ward_code": "1039",
+            "ward_name": "KISA WEST"
+          },
+          {
+            "ward_code": "1040",
+            "ward_name": "KISA CENTRAL"
+          }
+        ]
+      },
+      {
+        "const_code": "209",
+        "const_name": "SHINYALU",
+        "wards": [
+          {
+            "ward_code": "1041",
+            "ward_name": "ISUKHA NORTH"
+          },
+          {
+            "ward_code": "1042",
+            "ward_name": "MURHANDA"
+          },
+          {
+            "ward_code": "1043",
+            "ward_name": "ISUKHA CENTRAL"
+          },
+          {
+            "ward_code": "1044",
+            "ward_name": "ISUKHA SOUTH"
+          },
+          {
+            "ward_code": "1045",
+            "ward_name": "ISUKHA EAST"
+          },
+          {
+            "ward_code": "1046",
+            "ward_name": "ISUKHA WEST"
+          }
+        ]
+      },
+      {
+        "const_code": "210",
+        "const_name": "IKOLOMANI",
+        "wards": [
+          {
+            "ward_code": "1047",
+            "ward_name": "IDAKHO SOUTH"
+          },
+          {
+            "ward_code": "1048",
+            "ward_name": "IDAKHO EAST"
+          },
+          {
+            "ward_code": "1049",
+            "ward_name": "IDAKHO NORTH"
+          },
+          {
+            "ward_code": "1050",
+            "ward_name": "IDAKHO CENTRAL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "county_code": "038",
+    "county_name": "VIHIGA",
+    "constituencies": [
+      {
+        "const_code": "211",
+        "const_name": "VIHIGA",
+        "wards": [
+          {
+            "ward_code": "1051",
+            "ward_name": "LUGAGA-WAMULUMA"
+          },
+          {
+            "ward_code": "1052",
+            "ward_name": "SOUTH MARAGOLI"
+          },
+          {
+            "ward_code": "1053",
+            "ward_name": "CENTRAL MARAGOLI"
+          },
+          {
+            "ward_code": "1054",
+            "ward_name": "MUNGOMA"
+          }
+        ]
+      },
+      {
+        "const_code": "212",
+        "const_name": "SABATIA",
+        "wards": [
+          {
+            "ward_code": "1055",
+            "ward_name": "LYADUYWA/IZAVA"
+          },
+          {
+            "ward_code": "1056",
+            "ward_name": "WEST SABATIA"
+          },
+          {
+            "ward_code": "1057",
+            "ward_name": "CHAVAKALI"
+          },
+          {
+            "ward_code": "1058",
+            "ward_name": "NORTH MARAGOLI"
+          },
+          {
+            "ward_code": "1059",
+            "ward_name": "WODANGA"
+          },
+          {
+            "ward_code": "1060",
+            "ward_name": "BUSALI"
+          }
+        ]
+      },
+      {
+        "const_code": "213",
+        "const_name": "HAMISI",
+        "wards": [
+          {
+            "ward_code": "1061",
+            "ward_name": "SHIRU"
+          },
+          {
+            "ward_code": "1062",
+            "ward_name": "GISAMBAI"
+          },
+          {
+            "ward_code": "1063",
+            "ward_name": "SHAMAKHOKHO"
+          },
+          {
+            "ward_code": "1064",
+            "ward_name": "BANJA"
+          },
+          {
+            "ward_code": "1065",
+            "ward_name": "MUHUDU"
+          },
+          {
+            "ward_code": "1066",
+            "ward_name": "TAMBUA"
+          },
+          {
+            "ward_code": "1067",
+            "ward_name": "JEPKOYAI"
+          }
+        ]
+      },
+      {
+        "const_code": "214",
+        "const_name": "LUANDA",
+        "wards": [
+          {
+            "ward_code": "1068",
+            "ward_name": "LUANDA TOWNSHIP"
+          },
+          {
+            "ward_code": "1069",
+            "ward_name": "WEMILABI"
+          },
+          {
+            "ward_code": "1070",
+            "ward_name": "MWIBONA"
+          },
+          {
+            "ward_code": "1071",
+            "ward_name": "LUANDA SOUTH"
+          },
+          {
+            "ward_code": "1072",
+            "ward_name": "EMABUNGO"
+          }
+        ]
+      },
+      {
+        "const_code": "215",
+        "const_name": "EMUHAYA",
+        "wards": [
+          {
+            "ward_code": "1073",
+            "ward_name": "NORTH EAST BUNYORE"
+          },
+          {
+            "ward_code": "1074",
+            "ward_name": "CENTRAL BUNYORE"
+          },
+          {
+            "ward_code": "1075",
+            "ward_name": "WEST BUNYORE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "county_code": "039",
+    "county_name": "BUNGOMA",
+    "constituencies": [
+      {
+        "const_code": "216",
+        "const_name": "MT. ELGON",
+        "wards": [
+          {
+            "ward_code": "1076",
+            "ward_name": "CHEPTAIS"
+          },
+          {
+            "ward_code": "1077",
+            "ward_name": "CHESIKAKI"
+          },
+          {
+            "ward_code": "1078",
+            "ward_name": "CHEPYUK"
+          },
+          {
+            "ward_code": "1079",
+            "ward_name": "KAPKATENY"
+          },
+          {
+            "ward_code": "1080",
+            "ward_name": "KAPTAMA"
+          },
+          {
+            "ward_code": "1081",
+            "ward_name": "ELGON"
+          }
+        ]
+      },
+      {
+        "const_code": "217",
+        "const_name": "SIRISIA",
+        "wards": [
+          {
+            "ward_code": "1082",
+            "ward_name": "NAMWELA"
+          },
+          {
+            "ward_code": "1083",
+            "ward_name": "MALAKISI/SOUTH KULISIRU"
+          },
+          {
+            "ward_code": "1084",
+            "ward_name": "LWANDANYI"
+          }
+        ]
+      },
+      {
+        "const_code": "218",
+        "const_name": "KABUCHAI",
+        "wards": [
+          {
+            "ward_code": "1085",
+            "ward_name": "KABUCHAI/CHWELE"
+          },
+          {
+            "ward_code": "1086",
+            "ward_name": "WEST NALONDO"
+          },
+          {
+            "ward_code": "1087",
+            "ward_name": "BWAKE/LUUYA"
+          },
+          {
+            "ward_code": "1088",
+            "ward_name": "MUKUYUNI"
+          }
+        ]
+      },
+      {
+        "const_code": "219",
+        "const_name": "BUMULA",
+        "wards": [
+          {
+            "ward_code": "1089",
+            "ward_name": "SOUTH BUKUSU"
+          },
+          {
+            "ward_code": "1090",
+            "ward_name": "BUMULA"
+          },
+          {
+            "ward_code": "1091",
+            "ward_name": "KHASOKO"
+          },
+          {
+            "ward_code": "1092",
+            "ward_name": "KABULA"
+          },
+          {
+            "ward_code": "1093",
+            "ward_name": "KIMAETI"
+          },
+          {
+            "ward_code": "1094",
+            "ward_name": "WEST BUKUSU"
+          },
+          {
+            "ward_code": "1095",
+            "ward_name": "SIBOTI"
+          }
+        ]
+      },
+      {
+        "const_code": "220",
+        "const_name": "KANDUYI",
+        "wards": [
+          {
+            "ward_code": "1096",
+            "ward_name": "BUKEMBE WEST"
+          },
+          {
+            "ward_code": "1097",
+            "ward_name": "BUKEMBE EAST"
+          },
+          {
+            "ward_code": "1098",
+            "ward_name": "TOWNSHIP"
+          },
+          {
+            "ward_code": "1099",
+            "ward_name": "KHALABA"
+          },
+          {
+            "ward_code": "1100",
+            "ward_name": "MUSIKOMA"
+          },
+          {
+            "ward_code": "1101",
+            "ward_name": "EAST SANG'ALO"
+          },
+          {
+            "ward_code": "1102",
+            "ward_name": "MARAKARU/TUUTI"
+          },
+          {
+            "ward_code": "1103",
+            "ward_name": "WEST SANG'ALO"
+          }
+        ]
+      },
+      {
+        "const_code": "221",
+        "const_name": "WEBUYE EAST",
+        "wards": [
+          {
+            "ward_code": "1104",
+            "ward_name": "MIHUU"
+          },
+          {
+            "ward_code": "1105",
+            "ward_name": "NDIVISI"
+          },
+          {
+            "ward_code": "1106",
+            "ward_name": "MARAKA"
+          }
+        ]
+      },
+      {
+        "const_code": "222",
+        "const_name": "WEBUYE WEST",
+        "wards": [
+          {
+            "ward_code": "1107",
+            "ward_name": "MISIKHU"
+          },
+          {
+            "ward_code": "1108",
+            "ward_name": "SITIKHO"
+          },
+          {
+            "ward_code": "1109",
+            "ward_name": "MATULO"
+          },
+          {
+            "ward_code": "1110",
+            "ward_name": "BOKOLI"
+          }
+        ]
+      },
+      {
+        "const_code": "223",
+        "const_name": "KIMILILI",
+        "wards": [
+          {
+            "ward_code": "1111",
+            "ward_name": "KIBINGEI"
+          },
+          {
+            "ward_code": "1112",
+            "ward_name": "KIMILILI"
+          },
+          {
+            "ward_code": "1113",
+            "ward_name": "MAENI"
+          },
+          {
+            "ward_code": "1114",
+            "ward_name": "KAMUKUYWA"
+          }
+        ]
+      },
+      {
+        "const_code": "224",
+        "const_name": "TONGAREN",
+        "wards": [
+          {
+            "ward_code": "1115",
+            "ward_name": "MBAKALO"
+          },
+          {
+            "ward_code": "1116",
+            "ward_name": "NAITIRI/KABUYEFWE"
+          },
+          {
+            "ward_code": "1117",
+            "ward_name": "MILIMA"
+          },
+          {
+            "ward_code": "1118",
+            "ward_name": "NDALU/ TABANI"
+          },
+          {
+            "ward_code": "1119",
+            "ward_name": "TONGAREN"
+          },
+          {
+            "ward_code": "1120",
+            "ward_name": "SOYSAMBU/ MITUA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "county_code": "040",
+    "county_name": "BUSIA",
+    "constituencies": [
+      {
+        "const_code": "225",
+        "const_name": "TESO NORTH",
+        "wards": [
+          {
+            "ward_code": "1121",
+            "ward_name": "MALABA CENTRAL"
+          },
+          {
+            "ward_code": "1122",
+            "ward_name": "MALABA NORTH"
+          },
+          {
+            "ward_code": "1123",
+            "ward_name": "ANG'URAI SOUTH"
+          },
+          {
+            "ward_code": "1124",
+            "ward_name": "ANG'URAI NORTH"
+          },
+          {
+            "ward_code": "1125",
+            "ward_name": "ANG'URAI EAST"
+          },
+          {
+            "ward_code": "1126",
+            "ward_name": "MALABA SOUTH"
+          }
+        ]
+      },
+      {
+        "const_code": "226",
+        "const_name": "TESO SOUTH",
+        "wards": [
+          {
+            "ward_code": "1127",
+            "ward_name": "ANG'OROM"
+          },
+          {
+            "ward_code": "1128",
+            "ward_name": "CHAKOL SOUTH"
+          },
+          {
+            "ward_code": "1129",
+            "ward_name": "CHAKOL NORTH"
+          },
+          {
+            "ward_code": "1130",
+            "ward_name": "AMUKURA WEST"
+          },
+          {
+            "ward_code": "1131",
+            "ward_name": "AMUKURA EAST"
+          },
+          {
+            "ward_code": "1132",
+            "ward_name": "AMUKURA CENTRAL"
+          }
+        ]
+      },
+      {
+        "const_code": "227",
+        "const_name": "NAMBALE",
+        "wards": [
+          {
+            "ward_code": "1133",
+            "ward_name": "NAMBALE TOWNSHIP"
+          },
+          {
+            "ward_code": "1134",
+            "ward_name": "BUKHAYO NORTH/WALTSI"
+          },
+          {
+            "ward_code": "1135",
+            "ward_name": "BUKHAYO EAST"
+          },
+          {
+            "ward_code": "1136",
+            "ward_name": "BUKHAYO CENTRAL"
+          }
+        ]
+      },
+      {
+        "const_code": "228",
+        "const_name": "MATAYOS",
+        "wards": [
+          {
+            "ward_code": "1137",
+            "ward_name": "BUKHAYO WEST"
+          },
+          {
+            "ward_code": "1138",
+            "ward_name": "MAYENJE"
+          },
+          {
+            "ward_code": "1139",
+            "ward_name": "MATAYOS SOUTH"
+          },
+          {
+            "ward_code": "1140",
+            "ward_name": "BUSIBWABO"
+          },
+          {
+            "ward_code": "1141",
+            "ward_name": "BURUMBA"
+          }
+        ]
+      },
+      {
+        "const_code": "229",
+        "const_name": "BUTULA",
+        "wards": [
+          {
+            "ward_code": "1142",
+            "ward_name": "MARACHI WEST"
+          },
+          {
+            "ward_code": "1143",
+            "ward_name": "KINGANDOLE"
+          },
+          {
+            "ward_code": "1144",
+            "ward_name": "MARACHI CENTRAL"
+          },
+          {
+            "ward_code": "1145",
+            "ward_name": "MARACHI EAST"
+          },
+          {
+            "ward_code": "1146",
+            "ward_name": "MARACHI NORTH"
+          },
+          {
+            "ward_code": "1147",
+            "ward_name": "ELUGULU"
+          }
+        ]
+      },
+      {
+        "const_code": "230",
+        "const_name": "FUNYULA",
+        "wards": [
+          {
+            "ward_code": "1148",
+            "ward_name": "NAMBOBOTO NAMBUKU"
+          },
+          {
+            "ward_code": "1149",
+            "ward_name": "NANGINA"
+          },
+          {
+            "ward_code": "1150",
+            "ward_name": "AGENG'A NANGUBA"
+          },
+          {
+            "ward_code": "1151",
+            "ward_name": "BWIRI"
+          }
+        ]
+      },
+      {
+        "const_code": "231",
+        "const_name": "BUDALANGI",
+        "wards": [
+          {
+            "ward_code": "1152",
+            "ward_name": "BUNYALA CENTRAL"
+          },
+          {
+            "ward_code": "1153",
+            "ward_name": "BUNYALA NORTH"
+          },
+          {
+            "ward_code": "1154",
+            "ward_name": "BUNYALA WEST"
+          },
+          {
+            "ward_code": "1155",
+            "ward_name": "BUNYALA SOUTH"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "county_code": "041",
+    "county_name": "SIAYA",
+    "constituencies": [
+      {
+        "const_code": "232",
+        "const_name": "UGENYA",
+        "wards": [
+          {
+            "ward_code": "1156",
+            "ward_name": "WEST UGENYA"
+          },
+          {
+            "ward_code": "1157",
+            "ward_name": "UKWALA"
+          },
+          {
+            "ward_code": "1158",
+            "ward_name": "NORTH UGENYA"
+          },
+          {
+            "ward_code": "1159",
+            "ward_name": "EAST UGENYA"
+          }
+        ]
+      },
+      {
+        "const_code": "233",
+        "const_name": "UGUNJA",
+        "wards": [
+          {
+            "ward_code": "1160",
+            "ward_name": "SIDINDI"
+          },
+          {
+            "ward_code": "1161",
+            "ward_name": "SIGOMERE"
+          },
+          {
+            "ward_code": "1162",
+            "ward_name": "UGUNJA"
+          }
+        ]
+      },
+      {
+        "const_code": "234",
+        "const_name": "ALEGO USONGA",
+        "wards": [
+          {
+            "ward_code": "1163",
+            "ward_name": "USONGA"
+          },
+          {
+            "ward_code": "1164",
+            "ward_name": "WEST ALEGO"
+          },
+          {
+            "ward_code": "1165",
+            "ward_name": "CENTRAL ALEGO"
+          },
+          {
+            "ward_code": "1166",
+            "ward_name": "SIAYA TOWNSHIP"
+          },
+          {
+            "ward_code": "1167",
+            "ward_name": "NORTH ALEGO"
+          },
+          {
+            "ward_code": "1168",
+            "ward_name": "SOUTH EAST ALEGO"
+          }
+        ]
+      },
+      {
+        "const_code": "235",
+        "const_name": "GEM",
+        "wards": [
+          {
+            "ward_code": "1169",
+            "ward_name": "NORTH GEM"
+          },
+          {
+            "ward_code": "1170",
+            "ward_name": "WEST GEM"
+          },
+          {
+            "ward_code": "1171",
+            "ward_name": "CENTRAL GEM"
+          },
+          {
+            "ward_code": "1172",
+            "ward_name": "YALA TOWNSHIP"
+          },
+          {
+            "ward_code": "1173",
+            "ward_name": "EAST GEM"
+          },
+          {
+            "ward_code": "1174",
+            "ward_name": "SOUTH GEM"
+          }
+        ]
+      },
+      {
+        "const_code": "236",
+        "const_name": "BONDO",
+        "wards": [
+          {
+            "ward_code": "1175",
+            "ward_name": "WEST YIMBO"
+          },
+          {
+            "ward_code": "1176",
+            "ward_name": "CENTRAL SAKWA"
+          },
+          {
+            "ward_code": "1177",
+            "ward_name": "SOUTH SAKWA"
+          },
+          {
+            "ward_code": "1178",
+            "ward_name": "YIMBO EAST"
+          },
+          {
+            "ward_code": "1179",
+            "ward_name": "WEST SAKWA"
+          },
+          {
+            "ward_code": "1180",
+            "ward_name": "NORTH SAKWA"
+          }
+        ]
+      },
+      {
+        "const_code": "237",
+        "const_name": "RARIEDA",
+        "wards": [
+          {
+            "ward_code": "1181",
+            "ward_name": "EAST ASEMBO"
+          },
+          {
+            "ward_code": "1182",
+            "ward_name": "WEST ASEMBO"
+          },
+          {
+            "ward_code": "1183",
+            "ward_name": "NORTH UYOMA"
+          },
+          {
+            "ward_code": "1184",
+            "ward_name": "SOUTH UYOMA"
+          },
+          {
+            "ward_code": "1185",
+            "ward_name": "WEST UYOMA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "county_code": "042",
+    "county_name": "KISUMU",
+    "constituencies": [
+      {
+        "const_code": "238",
+        "const_name": "KISUMU EAST",
+        "wards": [
+          {
+            "ward_code": "1186",
+            "ward_name": "KAJULU"
+          },
+          {
+            "ward_code": "1187",
+            "ward_name": "KOLWA EAST"
+          },
+          {
+            "ward_code": "1188",
+            "ward_name": "MANYATTA 'B'"
+          },
+          {
+            "ward_code": "1189",
+            "ward_name": "NYALENDA 'A'"
+          },
+          {
+            "ward_code": "1190",
+            "ward_name": "KOLWA CENTRAL"
+          }
+        ]
+      },
+      {
+        "const_code": "239",
+        "const_name": "KISUMU WEST",
+        "wards": [
+          {
+            "ward_code": "1191",
+            "ward_name": "SOUTH WEST KISUMU"
+          },
+          {
+            "ward_code": "1192",
+            "ward_name": "CENTRAL KISUMU"
+          },
+          {
+            "ward_code": "1193",
+            "ward_name": "KISUMU NORTH"
+          },
+          {
+            "ward_code": "1194",
+            "ward_name": "WEST KISUMU"
+          },
+          {
+            "ward_code": "1195",
+            "ward_name": "NORTH WEST KISUMU"
+          }
+        ]
+      },
+      {
+        "const_code": "240",
+        "const_name": "KISUMU CENTRAL",
+        "wards": [
+          {
+            "ward_code": "1196",
+            "ward_name": "RAILWAYS"
+          },
+          {
+            "ward_code": "1197",
+            "ward_name": "MIGOSI"
+          },
+          {
+            "ward_code": "1198",
+            "ward_name": "SHAURIMOYO KALOLENI"
+          },
+          {
+            "ward_code": "1199",
+            "ward_name": "MARKET MILIMANI"
+          },
+          {
+            "ward_code": "1200",
+            "ward_name": "KONDELE"
+          },
+          {
+            "ward_code": "1201",
+            "ward_name": "NYALENDA B"
+          }
+        ]
+      },
+      {
+        "const_code": "241",
+        "const_name": "SEME",
+        "wards": [
+          {
+            "ward_code": "1202",
+            "ward_name": "WEST SEME"
+          },
+          {
+            "ward_code": "1203",
+            "ward_name": "CENTRAL SEME"
+          },
+          {
+            "ward_code": "1204",
+            "ward_name": "EAST SEME"
+          },
+          {
+            "ward_code": "1205",
+            "ward_name": "NORTH SEME"
+          }
+        ]
+      },
+      {
+        "const_code": "242",
+        "const_name": "NYANDO",
+        "wards": [
+          {
+            "ward_code": "1206",
+            "ward_name": "EAST KANO/WAWIDHI"
+          },
+          {
+            "ward_code": "1207",
+            "ward_name": "AWASI/ONJIKO"
+          },
+          {
+            "ward_code": "1208",
+            "ward_name": "AHERO"
+          },
+          {
+            "ward_code": "1209",
+            "ward_name": "KABONYO/KANYAGWAL"
+          },
+          {
+            "ward_code": "1210",
+            "ward_name": "KOBURA"
+          }
+        ]
+      },
+      {
+        "const_code": "243",
+        "const_name": "MUHORONI",
+        "wards": [
+          {
+            "ward_code": "1211",
+            "ward_name": "MIWANI"
+          },
+          {
+            "ward_code": "1212",
+            "ward_name": "OMBEYI"
+          },
+          {
+            "ward_code": "1213",
+            "ward_name": "MASOGO/NYANG'OMA"
+          },
+          {
+            "ward_code": "1214",
+            "ward_name": "CHEMELIL"
+          },
+          {
+            "ward_code": "1215",
+            "ward_name": "MUHORONI/KORU"
+          }
+        ]
+      },
+      {
+        "const_code": "244",
+        "const_name": "NYAKACH",
+        "wards": [
+          {
+            "ward_code": "1216",
+            "ward_name": "SOUTH WEST NYAKACH"
+          },
+          {
+            "ward_code": "1217",
+            "ward_name": "NORTH NYAKACH"
+          },
+          {
+            "ward_code": "1218",
+            "ward_name": "CENTRAL NYAKACH"
+          },
+          {
+            "ward_code": "1219",
+            "ward_name": "WEST NYAKACH"
+          },
+          {
+            "ward_code": "1220",
+            "ward_name": "SOUTH EAST NYAKACH"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "county_code": "043",
+    "county_name": "HOMA BAY",
+    "constituencies": [
+      {
+        "const_code": "245",
+        "const_name": "KASIPUL",
+        "wards": [
+          {
+            "ward_code": "1221",
+            "ward_name": "WEST KASIPUL"
+          },
+          {
+            "ward_code": "1222",
+            "ward_name": "SOUTH KASIPUL"
+          },
+          {
+            "ward_code": "1223",
+            "ward_name": "CENTRAL KASIPUL"
+          },
+          {
+            "ward_code": "1224",
+            "ward_name": "EAST KAMAGAK"
+          },
+          {
+            "ward_code": "1225",
+            "ward_name": "WEST KAMAGAK"
+          }
+        ]
+      },
+      {
+        "const_code": "246",
+        "const_name": "KABONDO KASIPUL",
+        "wards": [
+          {
+            "ward_code": "1226",
+            "ward_name": "KABONDO EAST"
+          },
+          {
+            "ward_code": "1227",
+            "ward_name": "KABONDO WEST"
+          },
+          {
+            "ward_code": "1228",
+            "ward_name": "KOKWANYO/KAKELO"
+          },
+          {
+            "ward_code": "1229",
+            "ward_name": "KOJWACH"
+          }
+        ]
+      },
+      {
+        "const_code": "247",
+        "const_name": "KARACHUONYO",
+        "wards": [
+          {
+            "ward_code": "1230",
+            "ward_name": "WEST KARACHUONYO"
+          },
+          {
+            "ward_code": "1231",
+            "ward_name": "NORTH KARACHUONYO"
+          },
+          {
+            "ward_code": "1232",
+            "ward_name": "CENTRAL"
+          },
+          {
+            "ward_code": "1233",
+            "ward_name": "KANYALUO"
+          },
+          {
+            "ward_code": "1234",
+            "ward_name": "KIBIRI"
+          },
+          {
+            "ward_code": "1235",
+            "ward_name": "WANGCHIENG"
+          },
+          {
+            "ward_code": "1236",
+            "ward_name": "KENDU BAY TOWN"
+          }
+        ]
+      },
+      {
+        "const_code": "248",
+        "const_name": "RANGWE",
+        "wards": [
+          {
+            "ward_code": "1237",
+            "ward_name": "WEST GEM"
+          },
+          {
+            "ward_code": "1238",
+            "ward_name": "EAST GEM"
+          },
+          {
+            "ward_code": "1239",
+            "ward_name": "KAGAN"
+          },
+          {
+            "ward_code": "1240",
+            "ward_name": "KOCHIA"
+          }
+        ]
+      },
+      {
+        "const_code": "249",
+        "const_name": "HOMA BAY TOWN",
+        "wards": [
+          {
+            "ward_code": "1241",
+            "ward_name": "HOMA BAY CENTRAL"
+          },
+          {
+            "ward_code": "1242",
+            "ward_name": "HOMA BAY ARUJO"
+          },
+          {
+            "ward_code": "1243",
+            "ward_name": "HOMA BAY WEST"
+          },
+          {
+            "ward_code": "1244",
+            "ward_name": "HOMA BAY EAST"
+          }
+        ]
+      },
+      {
+        "const_code": "250",
+        "const_name": "NDHIWA",
+        "wards": [
+          {
+            "ward_code": "1245",
+            "ward_name": "KWABWAI"
+          },
+          {
+            "ward_code": "1246",
+            "ward_name": "KANYADOTO"
+          },
+          {
+            "ward_code": "1247",
+            "ward_name": "KANYIKELA"
+          },
+          {
+            "ward_code": "1248",
+            "ward_name": "KABUOCH NORTH"
+          },
+          {
+            "ward_code": "1249",
+            "ward_name": "KABUOCH SOUTH/PALA"
+          },
+          {
+            "ward_code": "1250",
+            "ward_name": "KANYAMWA KOLOGI"
+          },
+          {
+            "ward_code": "1251",
+            "ward_name": "KANYAMWA KOSEWE"
+          }
+        ]
+      },
+      {
+        "const_code": "251",
+        "const_name": "SUBA NORTH",
+        "wards": [
+          {
+            "ward_code": "1252",
+            "ward_name": "MFANGANO ISLAND"
+          },
+          {
+            "ward_code": "1253",
+            "ward_name": "RUSINGA ISLAND"
+          },
+          {
+            "ward_code": "1254",
+            "ward_name": "KASGUNGA"
+          },
+          {
+            "ward_code": "1255",
+            "ward_name": "GEMBE"
+          },
+          {
+            "ward_code": "1256",
+            "ward_name": "LAMBWE"
+          }
+        ]
+      },
+      {
+        "const_code": "252",
+        "const_name": "SUBA SOUTH",
+        "wards": [
+          {
+            "ward_code": "1257",
+            "ward_name": "GWASSI SOUTH"
+          },
+          {
+            "ward_code": "1258",
+            "ward_name": "GWASSI NORTH"
+          },
+          {
+            "ward_code": "1259",
+            "ward_name": "KAKSINGRI WEST"
+          },
+          {
+            "ward_code": "1260",
+            "ward_name": "RUMA-KAKSINGRI"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "county_code": "044",
+    "county_name": "MIGORI",
+    "constituencies": [
+      {
+        "const_code": "253",
+        "const_name": "RONGO",
+        "wards": [
+          {
+            "ward_code": "1261",
+            "ward_name": "NORTH KAMAGAMBO"
+          },
+          {
+            "ward_code": "1262",
+            "ward_name": "CENTRAL KAMAGAMBO"
+          },
+          {
+            "ward_code": "1263",
+            "ward_name": "EAST KAMAGAMBO"
+          },
+          {
+            "ward_code": "1264",
+            "ward_name": "SOUTH KAMAGAMBO"
+          }
+        ]
+      },
+      {
+        "const_code": "254",
+        "const_name": "AWENDO",
+        "wards": [
+          {
+            "ward_code": "1265",
+            "ward_name": "NORTH SAKWA"
+          },
+          {
+            "ward_code": "1266",
+            "ward_name": "SOUTH SAKWA"
+          },
+          {
+            "ward_code": "1267",
+            "ward_name": "WEST SAKWA"
+          },
+          {
+            "ward_code": "1268",
+            "ward_name": "CENTRAL SAKWA"
+          }
+        ]
+      },
+      {
+        "const_code": "255",
+        "const_name": "SUNA EAST",
+        "wards": [
+          {
+            "ward_code": "1269",
+            "ward_name": "GOD JOPE"
+          },
+          {
+            "ward_code": "1270",
+            "ward_name": "SUNA CENTRAL"
+          },
+          {
+            "ward_code": "1271",
+            "ward_name": "KAKRAO"
+          },
+          {
+            "ward_code": "1272",
+            "ward_name": "KWA"
+          }
+        ]
+      },
+      {
+        "const_code": "256",
+        "const_name": "SUNA WEST",
+        "wards": [
+          {
+            "ward_code": "1273",
+            "ward_name": "WIGA"
+          },
+          {
+            "ward_code": "1274",
+            "ward_name": "WASWETA II"
+          },
+          {
+            "ward_code": "1275",
+            "ward_name": "RAGANA-ORUBA"
+          },
+          {
+            "ward_code": "1276",
+            "ward_name": "WASIMBETE"
+          }
+        ]
+      },
+      {
+        "const_code": "257",
+        "const_name": "URIRI",
+        "wards": [
+          {
+            "ward_code": "1277",
+            "ward_name": "WEST KANYAMKAGO"
+          },
+          {
+            "ward_code": "1278",
+            "ward_name": "NORTH KANYAMKAGO"
+          },
+          {
+            "ward_code": "1279",
+            "ward_name": "CENTRAL KANYAMKAGO"
+          },
+          {
+            "ward_code": "1280",
+            "ward_name": "SOUTH KANYAMKAGO"
+          },
+          {
+            "ward_code": "1281",
+            "ward_name": "EAST KANYAMKAGO"
+          }
+        ]
+      },
+      {
+        "const_code": "258",
+        "const_name": "NYATIKE",
+        "wards": [
+          {
+            "ward_code": "1282",
+            "ward_name": "KACHIEN'G"
+          },
+          {
+            "ward_code": "1283",
+            "ward_name": "KANYASA"
+          },
+          {
+            "ward_code": "1284",
+            "ward_name": "NORTH KADEM"
+          },
+          {
+            "ward_code": "1285",
+            "ward_name": "MACALDER/KANYARWANDA"
+          },
+          {
+            "ward_code": "1286",
+            "ward_name": "KALER"
+          },
+          {
+            "ward_code": "1287",
+            "ward_name": "GOT KACHOLA"
+          },
+          {
+            "ward_code": "1288",
+            "ward_name": "MUHURU"
+          }
+        ]
+      },
+      {
+        "const_code": "259",
+        "const_name": "KURIA WEST",
+        "wards": [
+          {
+            "ward_code": "1289",
+            "ward_name": "BUKIRA EAST"
+          },
+          {
+            "ward_code": "1290",
+            "ward_name": "BUKIRA CENTRL/IKEREGE"
+          },
+          {
+            "ward_code": "1291",
+            "ward_name": "ISIBANIA"
+          },
+          {
+            "ward_code": "1292",
+            "ward_name": "MAKERERO"
+          },
+          {
+            "ward_code": "1293",
+            "ward_name": "MASABA"
+          },
+          {
+            "ward_code": "1294",
+            "ward_name": "TAGARE"
+          },
+          {
+            "ward_code": "1295",
+            "ward_name": "NYAMOSENSE/KOMOSOKO"
+          }
+        ]
+      },
+      {
+        "const_code": "260",
+        "const_name": "KURIA EAST",
+        "wards": [
+          {
+            "ward_code": "1296",
+            "ward_name": "GOKEHARAKA/GETAMBWEGA"
+          },
+          {
+            "ward_code": "1297",
+            "ward_name": "NTIMARU WEST"
+          },
+          {
+            "ward_code": "1298",
+            "ward_name": "NTIMARU EAST"
+          },
+          {
+            "ward_code": "1299",
+            "ward_name": "NYABASI EAST"
+          },
+          {
+            "ward_code": "1300",
+            "ward_name": "NYABASI WEST"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "county_code": "045",
+    "county_name": "KISII",
+    "constituencies": [
+      {
+        "const_code": "261",
+        "const_name": "BONCHARI",
+        "wards": [
+          {
+            "ward_code": "1301",
+            "ward_name": "BOMARIBA"
+          },
+          {
+            "ward_code": "1302",
+            "ward_name": "BOGIAKUMU"
+          },
+          {
+            "ward_code": "1303",
+            "ward_name": "BOMORENDA"
+          },
+          {
+            "ward_code": "1304",
+            "ward_name": "RIANA"
+          }
+        ]
+      },
+      {
+        "const_code": "262",
+        "const_name": "SOUTH MUGIRANGO",
+        "wards": [
+          {
+            "ward_code": "1305",
+            "ward_name": "TABAKA"
+          },
+          {
+            "ward_code": "1306",
+            "ward_name": "BOIKANG'A"
+          },
+          {
+            "ward_code": "1307",
+            "ward_name": "BOGETENGA"
+          },
+          {
+            "ward_code": "1308",
+            "ward_name": "BORABU / CHITAGO"
+          },
+          {
+            "ward_code": "1309",
+            "ward_name": "MOTICHO"
+          },
+          {
+            "ward_code": "1310",
+            "ward_name": "GETENGA"
+          }
+        ]
+      },
+      {
+        "const_code": "263",
+        "const_name": "BOMACHOGE BORABU",
+        "wards": [
+          {
+            "ward_code": "1311",
+            "ward_name": "BOMBABA BORABU"
+          },
+          {
+            "ward_code": "1312",
+            "ward_name": "BOOCHI BORABU"
+          },
+          {
+            "ward_code": "1313",
+            "ward_name": "BOKIMONGE"
+          },
+          {
+            "ward_code": "1314",
+            "ward_name": "MAGENCHE"
+          }
+        ]
+      },
+      {
+        "const_code": "264",
+        "const_name": "BOBASI",
+        "wards": [
+          {
+            "ward_code": "1315",
+            "ward_name": "MASIGE WEST"
+          },
+          {
+            "ward_code": "1316",
+            "ward_name": "MASIGE EAST"
+          },
+          {
+            "ward_code": "1317",
+            "ward_name": "BASI CENTRAL"
+          },
+          {
+            "ward_code": "1318",
+            "ward_name": "NYACHEKI"
+          },
+          {
+            "ward_code": "1319",
+            "ward_name": "BASI BOGETAORIO"
+          },
+          {
+            "ward_code": "1320",
+            "ward_name": "BOBASI CHACHE"
+          },
+          {
+            "ward_code": "1321",
+            "ward_name": "SAMETA/MOKWERERO"
+          },
+          {
+            "ward_code": "1322",
+            "ward_name": "BOBASI BOITANGARE"
+          }
+        ]
+      },
+      {
+        "const_code": "265",
+        "const_name": "BOMACHOGE CHACHE",
+        "wards": [
+          {
+            "ward_code": "1323",
+            "ward_name": "MAJOGE BASI"
+          },
+          {
+            "ward_code": "1324",
+            "ward_name": "BOOCHI/TENDERE"
+          },
+          {
+            "ward_code": "1325",
+            "ward_name": "BOSOTI/SENGERA"
+          }
+        ]
+      },
+      {
+        "const_code": "266",
+        "const_name": "NYARIBARI MASABA",
+        "wards": [
+          {
+            "ward_code": "1326",
+            "ward_name": "ICHUNI"
+          },
+          {
+            "ward_code": "1327",
+            "ward_name": "NYAMASIBI"
+          },
+          {
+            "ward_code": "1328",
+            "ward_name": "MASIMBA"
+          },
+          {
+            "ward_code": "1329",
+            "ward_name": "GESUSU"
+          },
+          {
+            "ward_code": "1330",
+            "ward_name": "KIAMOKAMA"
+          }
+        ]
+      },
+      {
+        "const_code": "267",
+        "const_name": "NYARIBARI CHACHE",
+        "wards": [
+          {
+            "ward_code": "1331",
+            "ward_name": "BOBARACHO"
+          },
+          {
+            "ward_code": "1332",
+            "ward_name": "KISII CENTRAL"
+          },
+          {
+            "ward_code": "1333",
+            "ward_name": "KEUMBU"
+          },
+          {
+            "ward_code": "1334",
+            "ward_name": "KIOGORO"
+          },
+          {
+            "ward_code": "1335",
+            "ward_name": "BIRONGO"
+          },
+          {
+            "ward_code": "1336",
+            "ward_name": "IBENO"
+          }
+        ]
+      },
+      {
+        "const_code": "268",
+        "const_name": "KITUTU CHACHE NORTH",
+        "wards": [
+          {
+            "ward_code": "1337",
+            "ward_name": "MONYERERO"
+          },
+          {
+            "ward_code": "1338",
+            "ward_name": "SENSI"
+          },
+          {
+            "ward_code": "1339",
+            "ward_name": "MARANI"
+          },
+          {
+            "ward_code": "1340",
+            "ward_name": "KEGOGI"
+          }
+        ]
+      },
+      {
+        "const_code": "269",
+        "const_name": "KITUTU CHACHE SOUTH",
+        "wards": [
+          {
+            "ward_code": "1341",
+            "ward_name": "BOGUSERO"
+          },
+          {
+            "ward_code": "1342",
+            "ward_name": "BOGEKA"
+          },
+          {
+            "ward_code": "1343",
+            "ward_name": "NYAKOE"
+          },
+          {
+            "ward_code": "1344",
+            "ward_name": "KITUTU   CENTRAL"
+          },
+          {
+            "ward_code": "1345",
+            "ward_name": "NYATIEKO"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "county_code": "046",
+    "county_name": "NYAMIRA",
+    "constituencies": [
+      {
+        "const_code": "270",
+        "const_name": "KITUTU MASABA",
+        "wards": [
+          {
+            "ward_code": "1346",
+            "ward_name": "RIGOMA"
+          },
+          {
+            "ward_code": "1347",
+            "ward_name": "GACHUBA"
+          },
+          {
+            "ward_code": "1348",
+            "ward_name": "KEMERA"
+          },
+          {
+            "ward_code": "1349",
+            "ward_name": "MAGOMBO"
+          },
+          {
+            "ward_code": "1350",
+            "ward_name": "MANGA"
+          },
+          {
+            "ward_code": "1351",
+            "ward_name": "GESIMA"
+          }
+        ]
+      },
+      {
+        "const_code": "271",
+        "const_name": "WEST MUGIRANGO",
+        "wards": [
+          {
+            "ward_code": "1352",
+            "ward_name": "NYAMAIYA"
+          },
+          {
+            "ward_code": "1353",
+            "ward_name": "BOGICHORA"
+          },
+          {
+            "ward_code": "1354",
+            "ward_name": "BOSAMARO"
+          },
+          {
+            "ward_code": "1355",
+            "ward_name": "BONYAMATUTA"
+          },
+          {
+            "ward_code": "1356",
+            "ward_name": "TOWNSHIP"
+          }
+        ]
+      },
+      {
+        "const_code": "272",
+        "const_name": "NORTH MUGIRANGO",
+        "wards": [
+          {
+            "ward_code": "1357",
+            "ward_name": "ITIBO"
+          },
+          {
+            "ward_code": "1358",
+            "ward_name": "BOMWAGAMO"
+          },
+          {
+            "ward_code": "1359",
+            "ward_name": "BOKEIRA"
+          },
+          {
+            "ward_code": "1360",
+            "ward_name": "MAGWAGWA"
+          },
+          {
+            "ward_code": "1361",
+            "ward_name": "EKERENYO"
+          }
+        ]
+      },
+      {
+        "const_code": "273",
+        "const_name": "BORABU",
+        "wards": [
+          {
+            "ward_code": "1362",
+            "ward_name": "MEKENENE"
+          },
+          {
+            "ward_code": "1363",
+            "ward_name": "KIABONYORU"
+          },
+          {
+            "ward_code": "1364",
+            "ward_name": "NYANSIONGO"
+          },
+          {
+            "ward_code": "1365",
+            "ward_name": "ESISE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "county_code": "047",
+    "county_name": "NAIROBI CITY",
+    "constituencies": [
+      {
+        "const_code": "274",
+        "const_name": "WESTLANDS",
+        "wards": [
+          {
+            "ward_code": "1366",
+            "ward_name": "KITISURU"
+          },
+          {
+            "ward_code": "1367",
+            "ward_name": "PARKLANDS/HIGHRIDGE"
+          },
+          {
+            "ward_code": "1368",
+            "ward_name": "KARURA"
+          },
+          {
+            "ward_code": "1369",
+            "ward_name": "KANGEMI"
+          },
+          {
+            "ward_code": "1370",
+            "ward_name": "MOUNTAIN VIEW"
+          }
+        ]
+      },
+      {
+        "const_code": "275",
+        "const_name": "DAGORETTI NORTH",
+        "wards": [
+          {
+            "ward_code": "1371",
+            "ward_name": "KILIMANI"
+          },
+          {
+            "ward_code": "1372",
+            "ward_name": "KAWANGWARE"
+          },
+          {
+            "ward_code": "1373",
+            "ward_name": "GATINA"
+          },
+          {
+            "ward_code": "1374",
+            "ward_name": "KILELESHWA"
+          },
+          {
+            "ward_code": "1375",
+            "ward_name": "KABIRO"
+          }
+        ]
+      },
+      {
+        "const_code": "276",
+        "const_name": "DAGORETTI SOUTH",
+        "wards": [
+          {
+            "ward_code": "1376",
+            "ward_name": "MUTU-INI"
+          },
+          {
+            "ward_code": "1377",
+            "ward_name": "NGANDO"
+          },
+          {
+            "ward_code": "1378",
+            "ward_name": "RIRUTA"
+          },
+          {
+            "ward_code": "1379",
+            "ward_name": "UTHIRU/RUTHIMITU"
+          },
+          {
+            "ward_code": "1380",
+            "ward_name": "WAITHAKA"
+          }
+        ]
+      },
+      {
+        "const_code": "277",
+        "const_name": "LANGATA",
+        "wards": [
+          {
+            "ward_code": "1381",
+            "ward_name": "KAREN"
+          },
+          {
+            "ward_code": "1382",
+            "ward_name": "NAIROBI WEST"
+          },
+          {
+            "ward_code": "1383",
+            "ward_name": "MUGUMU-INI"
+          },
+          {
+            "ward_code": "1384",
+            "ward_name": "SOUTH C"
+          },
+          {
+            "ward_code": "1385",
+            "ward_name": "NYAYO HIGHRISE"
+          }
+        ]
+      },
+      {
+        "const_code": "278",
+        "const_name": "KIBRA",
+        "wards": [
+          {
+            "ward_code": "1386",
+            "ward_name": "LAINI SABA"
+          },
+          {
+            "ward_code": "1387",
+            "ward_name": "LINDI"
+          },
+          {
+            "ward_code": "1388",
+            "ward_name": "MAKINA"
+          },
+          {
+            "ward_code": "1389",
+            "ward_name": "WOODLEY/KENYATTA GOLF COURSE"
+          },
+          {
+            "ward_code": "1390",
+            "ward_name": "SARANGOMBE"
+          }
+        ]
+      },
+      {
+        "const_code": "279",
+        "const_name": "ROYSAMBU",
+        "wards": [
+          {
+            "ward_code": "1391",
+            "ward_name": "GITHURAI"
+          },
+          {
+            "ward_code": "1392",
+            "ward_name": "KAHAWA WEST"
+          },
+          {
+            "ward_code": "1393",
+            "ward_name": "ZIMMERMAN"
+          },
+          {
+            "ward_code": "1394",
+            "ward_name": "ROYSAMBU"
+          },
+          {
+            "ward_code": "1395",
+            "ward_name": "KAHAWA"
+          }
+        ]
+      },
+      {
+        "const_code": "280",
+        "const_name": "KASARANI",
+        "wards": [
+          {
+            "ward_code": "1396",
+            "ward_name": "CLAY CITY"
+          },
+          {
+            "ward_code": "1397",
+            "ward_name": "MWIKI"
+          },
+          {
+            "ward_code": "1398",
+            "ward_name": "KASARANI"
+          },
+          {
+            "ward_code": "1399",
+            "ward_name": "NJIRU"
+          },
+          {
+            "ward_code": "1400",
+            "ward_name": "RUAI"
+          }
+        ]
+      },
+      {
+        "const_code": "281",
+        "const_name": "RUARAKA",
+        "wards": [
+          {
+            "ward_code": "1401",
+            "ward_name": "BABA DOGO"
+          },
+          {
+            "ward_code": "1402",
+            "ward_name": "UTALII"
+          },
+          {
+            "ward_code": "1403",
+            "ward_name": "MATHARE NORTH"
+          },
+          {
+            "ward_code": "1404",
+            "ward_name": "LUCKY SUMMER"
+          },
+          {
+            "ward_code": "1405",
+            "ward_name": "KOROGOCHO"
+          }
+        ]
+      },
+      {
+        "const_code": "282",
+        "const_name": "EMBAKASI SOUTH",
+        "wards": [
+          {
+            "ward_code": "1406",
+            "ward_name": "IMARA DAIMA"
+          },
+          {
+            "ward_code": "1407",
+            "ward_name": "KWA NJENGA"
+          },
+          {
+            "ward_code": "1408",
+            "ward_name": "KWA REUBEN"
+          },
+          {
+            "ward_code": "1409",
+            "ward_name": "PIPELINE"
+          },
+          {
+            "ward_code": "1410",
+            "ward_name": "KWARE"
+          }
+        ]
+      },
+      {
+        "const_code": "283",
+        "const_name": "EMBAKASI NORTH",
+        "wards": [
+          {
+            "ward_code": "1411",
+            "ward_name": "KARIOBANGI NORTH"
+          },
+          {
+            "ward_code": "1412",
+            "ward_name": "DANDORA AREA I"
+          },
+          {
+            "ward_code": "1413",
+            "ward_name": "DANDORA AREA II"
+          },
+          {
+            "ward_code": "1414",
+            "ward_name": "DANDORA AREA III"
+          },
+          {
+            "ward_code": "1415",
+            "ward_name": "DANDORA AREA IV"
+          }
+        ]
+      },
+      {
+        "const_code": "284",
+        "const_name": "EMBAKASI CENTRAL",
+        "wards": [
+          {
+            "ward_code": "1416",
+            "ward_name": "KAYOLE NORTH"
+          },
+          {
+            "ward_code": "1417",
+            "ward_name": "KAYOLE CENTRAL"
+          },
+          {
+            "ward_code": "1418",
+            "ward_name": "KAYOLE SOUTH"
+          },
+          {
+            "ward_code": "1419",
+            "ward_name": "KOMAROCK"
+          },
+          {
+            "ward_code": "1420",
+            "ward_name": "MATOPENI/SPRING VALLEY"
+          }
+        ]
+      },
+      {
+        "const_code": "285",
+        "const_name": "EMBAKASI EAST",
+        "wards": [
+          {
+            "ward_code": "1421",
+            "ward_name": "UPPER SAVANNAH"
+          },
+          {
+            "ward_code": "1422",
+            "ward_name": "LOWER SAVANNAH"
+          },
+          {
+            "ward_code": "1423",
+            "ward_name": "EMBAKASI"
+          },
+          {
+            "ward_code": "1424",
+            "ward_name": "UTAWALA"
+          },
+          {
+            "ward_code": "1425",
+            "ward_name": "MIHANGO"
+          }
+        ]
+      },
+      {
+        "const_code": "286",
+        "const_name": "EMBAKASI WEST",
+        "wards": [
+          {
+            "ward_code": "1426",
+            "ward_name": "UMOJA I"
+          },
+          {
+            "ward_code": "1427",
+            "ward_name": "UMOJA II"
+          },
+          {
+            "ward_code": "1428",
+            "ward_name": "MOWLEM"
+          },
+          {
+            "ward_code": "1429",
+            "ward_name": "KARIOBANGI SOUTH"
+          }
+        ]
+      },
+      {
+        "const_code": "287",
+        "const_name": "MAKADARA",
+        "wards": [
+          {
+            "ward_code": "1430",
+            "ward_name": "MARINGO/HAMZA"
+          },
+          {
+            "ward_code": "1431",
+            "ward_name": "VIWANDANI"
+          },
+          {
+            "ward_code": "1432",
+            "ward_name": "HARAMBEE"
+          },
+          {
+            "ward_code": "1433",
+            "ward_name": "MAKONGENI"
+          }
+        ]
+      },
+      {
+        "const_code": "288",
+        "const_name": "KAMUKUNJI",
+        "wards": [
+          {
+            "ward_code": "1434",
+            "ward_name": "PUMWANI"
+          },
+          {
+            "ward_code": "1435",
+            "ward_name": "EASTLEIGH NORTH"
+          },
+          {
+            "ward_code": "1436",
+            "ward_name": "EASTLEIGH SOUTH"
+          },
+          {
+            "ward_code": "1437",
+            "ward_name": "AIRBASE"
+          },
+          {
+            "ward_code": "1438",
+            "ward_name": "CALIFORNIA"
+          }
+        ]
+      },
+      {
+        "const_code": "289",
+        "const_name": "STAREHE",
+        "wards": [
+          {
+            "ward_code": "1439",
+            "ward_name": "NAIROBI CENTRAL"
+          },
+          {
+            "ward_code": "1440",
+            "ward_name": "NGARA"
+          },
+          {
+            "ward_code": "1441",
+            "ward_name": "PANGANI"
+          },
+          {
+            "ward_code": "1442",
+            "ward_name": "ZIWANI/KARIOKOR"
+          },
+          {
+            "ward_code": "1443",
+            "ward_name": "LANDIMAWE"
+          },
+          {
+            "ward_code": "1444",
+            "ward_name": "NAIROBI SOUTH"
+          }
+        ]
+      },
+      {
+        "const_code": "290",
+        "const_name": "MATHARE",
+        "wards": [
+          {
+            "ward_code": "1445",
+            "ward_name": "HOSPITAL"
+          },
+          {
+            "ward_code": "1446",
+            "ward_name": "MABATINI"
+          },
+          {
+            "ward_code": "1447",
+            "ward_name": "HURUMA"
+          },
+          {
+            "ward_code": "1448",
+            "ward_name": "NGEI"
+          },
+          {
+            "ward_code": "1449",
+            "ward_name": "MLANGO KUBWA"
+          },
+          {
+            "ward_code": "1450",
+            "ward_name": "KIAMAIKO"
+          }
+        ]
+      }
+    ]
+  }
+]
